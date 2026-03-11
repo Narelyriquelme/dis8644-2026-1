@@ -4,9 +4,9 @@ martes 10 marzo 2026
 
 ## presentación equuipo docente
 
-aarón montoya
-matías serrano
-emiliana guerra
+* aarón montoya
+* matías serrano
+* emiliana guerra
 
 ## foco del semestre
 
@@ -16,8 +16,8 @@ sintetizadores
 
 ## enlaces
 
-- <https://misaa.cc>
-- <https://www.youtube.com/watch?v=vuvckBQ1bME>
+* <https://misaa.cc>
+* <https://www.youtube.com/watch?v=vuvckBQ1bME>
 
 ## encargo-01a
 
