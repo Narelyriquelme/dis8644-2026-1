@@ -27,3 +27,5 @@ La protoboard se divide en partes y polos:
 Siguiendo la Ley de Ohm, deberíamos conectar el cable de alimentación a los buses positivo y negativo. Luego, conectar la resistencia en las entradas verticales y de ahí conectar al **LED**. Es vital fijarse en la polaridad: el **negativo (cátodo)** tiene la pata más corta y el **positivo (ánodo)** la más larga. Si se sigue ese orden, el LED se encenderá.
 
 Finalmente, nos explicaron qué es un **electrón** (que en griego significa *Ámbar*). El electrón es una parte del átomo, específicamente de su órbita. Estos electrones son impulsados por la **fuerza electromotriz (voltaje)** para moverse por el material conductor y generar el **flujo eléctrico**.
+
+---
