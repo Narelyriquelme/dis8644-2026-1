@@ -20,4 +20,5 @@ Para mi sorpresa, me he vuelto a encontrar con Github…, antes la había usado 
 La clase comenzó con una charla muy cálida, teniendo como tema principal, un documental que teníamos que ver y seleccionar nuestra personaje favorita, etc…, pero luego, entramos en materia a aprender a usar Github para subir nuestros apuntes de clase, avances, y prácticamente llevar nuestra bitácora digital y que mis docentes puedan ver todo en tiempo real si así lo requieren.
 
 Agregando a lo anterior, los docentes y unxs compañerxs nos enseñaron unos cuantos truquitos de codificación para ordenar nuestros apuntes en Github. Y de esa manera, finalizo la primera parte de la clase antes de salir a receso. 
- 
+
+<img src="https://github.com/user-attachments/assets/727bb9fd-b088-44cd-a039-9902a59999ad" width="250">
