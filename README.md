@@ -10,9 +10,9 @@
 
 | Sesión                           | Fecha      | Temas                                                |
 | :------------------------------- | :--------- | :--------------------------------------------------- |
-| [01a](./00-docentes/sesion-01a/) | 03-10 mar  |                                                      |
-| [01b](./00-docentes/sesion-01b/) | 03-13 vie  |                                                      |
-| [02a](./00-docentes/sesion-02a/) | 03-17 mar  |                                                      |
+| [01a](./00-docentes/sesion-01a/) | 03-10 mar  | introducción a máquinas electrónicas                 |
+| [01b](./00-docentes/sesion-01b/) | 03-13 vie  | github, markdown, protoboard, LED, resistores        |
+| [02a](./00-docentes/sesion-02a/) | 03-17 mar  | baterías, resistores en paralelo y serie             |
 | [02b](./00-docentes/sesion-02b/) | 03-20 vie  |                                                      |
 | [03a](./00-docentes/sesion-03a/) | 03-24 mar  |                                                      |
 | [03b](./00-docentes/sesion-03b/) | 03-27 vie  |                                                      |
