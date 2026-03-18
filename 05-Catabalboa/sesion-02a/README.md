@@ -18,7 +18,7 @@
 
 **Imagenes de proceso y materiales**
 
-Y como a modo de repaso en lo digital, aprendimos a poner imagenes en github y un poco más como funciona esta misma, lo que es brunch y que tenemos de tener cuidado a no crear un brunch por error. Para poder poner imagenes, se debe cargar primero la imagen en la carpeta de imagenes, recomendable poner un nombre a la imagen antes de subirla, y luego de haber subido la imagen o las imagenes que queramos subir debemos poner el comando de ![texto alt para accesibilidad](./imagenes/nombre.extension).</p>
+Y como a modo de repaso en lo digital, aprendimos a poner imagenes en github y un poco más como funciona esta misma, lo que es brunch y que tenemos de tener cuidado a no crear un brunch por error. Para poder poner imagenes, se debe cargar primero la imagen en la carpeta de imagenes, recomendable poner un nombre a la imagen antes de subirla, y luego de haber subido la imagen o las imagenes que queramos subir debemos poner el comando.</p>
 
 ## Prueba imagen 
 
