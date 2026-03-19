@@ -93,7 +93,7 @@ la imagenes que devemos poner: sin espacio, sin tildes, sin mayusculas y la mane
 
 osea:
 
-es![cualquier texto aca](./imagenes/apuntesprueba.PNG)
+es_ ![cualquier texto aca](./imagenes/apuntesprueba.PNG)
 
 ## Circuito
 
@@ -132,6 +132,9 @@ GND Ground 0 volts Tierra **voltaje negativo**
 
 ### Ejercicio 1
 
+![ejemplo 1](./imagenes/ejercicio01.jpeg)
+![ejemplo 2](./imagenes/ejercicio1.jpeg)
+
 ## Componentes usados
 
 + 3 resistencias 220
@@ -153,6 +156,9 @@ GND Ground 0 volts Tierra **voltaje negativo**
 | R5                    |    1  |   1   |  1    |  0   |
 
 ### Ejercicio 2
+
+![ejemplo 1](./imagenes/ejercicio02.jpeg)
+![ejemplo 2](./imagenes/ejercicio2.jpeg)
 
 ## Componentes usados
 
@@ -179,6 +185,9 @@ GND Ground 0 volts Tierra **voltaje negativo**
 
 ### Ejercicio 3
 
+![ejemplo 1](./imagenes/ejercicio03.jpeg)
+![ejemplo 2](./imagenes/ejercicio3.jpeg)
+
 ## Componentes usados
 
 + 6 resistencias 220
@@ -198,7 +207,7 @@ GND Ground 0 volts Tierra **voltaje negativo**
 | R5                   |  1  |  1  |  1  |  1  |
 | R6                   |  1  |  1  |  1  |  1  |
 
-**(Colaboré con mi compañero Tomás catrileo para desarrollar esta parte del encargo)**
+**(Colaboré con mi compañero Tomás Catrileo para desarrollar esta parte del encargo)**
 
 ## Desarrollo encargo parte 2
 
