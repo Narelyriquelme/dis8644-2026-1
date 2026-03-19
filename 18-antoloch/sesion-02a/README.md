@@ -190,3 +190,46 @@ En un circuito paralelo, la corriente tiene varios caminos, por lo que los compo
 - VCC → voltaje de alimentación / corriente continua
 - R → resistencia
 - D → LED
+- 
+## Encargo-02a
+  
+## Circuito 1
+
+![Circuito 1](imagenes/circuito1.jpeg)
+
+| Resistencia que falta | D1 | D2 | D3 | D4 |
+|----------------------|----|----|----|----|
+| R1                   | 0  | 0  | 0  | 0  |
+| R2                   | 1  | 0  | 0  | 1  |
+| R3                   | 1  | 1  | 1  | 0  |
+| R4                   | 1  | 1  | 1  | 0  |
+| R5                   | 1  | 0  | 0  | 1  |
+
+
+## Circuito 2
+![Circuito 2](imagenes/circuito2.jpeg)
+
+
+| Resistencia que falta | D1 | D2 | D3 |
+|----------------------|----|----|----|
+| R1                   | 1  | 0  | 1  |
+| R2                   | 1  | 0  | 1  |
+| R3                   | 1  | 0  | 1  |
+| R4                   | 1  | 0  | 1  |
+| R5                   | 0  | 1  | 1  |
+| R6                   | 1  | 1  | 1  |
+| R7                   | 1  | 1  | 1  |
+| R8                   | 1  | 1  | 0  |
+
+## Circuito 3
+![Circuito 3](imagenes/circuito3.jpeg)
+
+| Resistencia que falta | D1 | D2 | D3 | D4 |
+|----------------------|----|----|----|----|
+| R1                   | 1  | 0  | 0  | 0  |
+| R2                   | 1  | 0  | 0  | 0  |
+| R3                   | 0  | 0  | 1  | 0  |
+| R4                   | 0  | 1  | 1  | 0  |
+| R5                   | 0  | 1  | 1  | 1  |
+| R6                   | 0  | 1  | 1  | 1  |
+
