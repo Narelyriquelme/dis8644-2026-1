@@ -128,6 +128,12 @@ En la versión de 2025, todo ha cambiado gracias a la informática de alto rendi
 
 En el disco The Man-Machine, lo que más me llama la atención son los sonidos robóticos que aparecen de forma intermitente, que dan la sensación de máquinas cobrando vida. Las notas agudas y prolongadas generan momentos de tensión, casi como si estuvieras escuchando un suspenso cuidadosamente calculado. Los ritmos constantes dominan gran parte del álbum, repitiéndose sin muchas variaciones, lo que refuerza la sensación de precisión mecánica y, a la vez, genera expectativa. Hay sonidos que recuerdan a pianos de música de terror que se perciben al fondo, y estos matices crean una atmósfera fría y melancólica; algunas melodías me provocan impaciencia, como si estuviera esperando que el ritmo cambiara o algo inesperado sucediera. A lo largo del disco, se mantiene una sensación de tensión sostenida, una especie de anticipación continua: no transmite tranquilidad, sino que mantiene al oyente en un estado de alerta, con la impresión de que algo está por ocurrir.
 
+**Imágenes**
+
+![kraftwerk](./imagenes/kraftwerk-1978.png)
+![kraftwerk](./imagenes/kraftwerk-2025.png)
+
+
 **Avances de era y contexto de grabación LCD soundsystem**
 
 A mediados de la década de 2000, la música electrónica y alternativa experimentó una transformación caracterizada por la integración de tecnologías digitales avanzadas con instrumentos electrónicos tradicionales. Dirigido por James Murphy, LCD Soundsystem se destacó en la combinación de sintetizadores, percusión programada y producción híbrida para crear piezas estructuradas y emocionalmente expresivas. El uso de estaciones de trabajo digitales y software de producción permitió a la banda manipular con precisión loops, samples y secuencias, creando un sonido que combinaba la repetición mecánica de la electrónica con la sensibilidad humana de la interpretación en vivo. Este enfoque hizo del estudio de grabación un instrumento verdaderamente creativo donde cada capa de sonido podía desarrollarse, modificarse y ensamblarse hasta lograr la complejidad y coherencia de Sound of Silver. Un importante avance tecnológico de esta era fue la flexibilidad de la producción digital, que facilitó la creación de ritmos precisos, la edición de texturas y la combinación de elementos analógicos y digitales en un solo espacio. Tener estas herramientas disponibles permitió a Murphy y su equipo explorar nuevas formas de arreglar canciones y mantener un equilibrio entre la precisión electrónica y la expresión emocional. En este contexto, el trabajo de LCD Soundsystem representa cómo la tecnología pasó de ser una simple herramienta de grabación a convertirse en un motor de creatividad musical, estableciendo estándares de producción que influyeron en la danza contemporánea, la música electrónica y el rock, y consolidando un lenguaje sonoro que integra fluidamente a la humanidad y la máquina. 
@@ -148,6 +154,10 @@ En cambio, en el video de 2024, la banda interpreta “All My Friends” frente 
 
 Al escuchar Sound of Silver, algunas canciones me generan una sensación de energía y motivación, como si me impulsaran a ser productiva o a moverme al ritmo de la música. Los ritmos electrónicos repetitivos y los bajos profundos crean un pulso constante que invita a moverse y a conectar con el ritmo de manera casi física. Otras canciones, en cambio, transmiten tranquilidad y serenidad; su sonido invita a relajarse y disfrutar del momento, como si todo lo demás dejara de importar por un instante. Al imaginar un escenario para estas canciones, se percibe un ambiente más cálido y acogedor, donde la música envuelve suavemente y se siente ligera, transmitiendo la sensación de que no hay preocupaciones. 
 
+**Imágenes**
+
+![lcdsoundsystem](./imagenes/lcd-soundsystem-2002.png)
+![lcdsoundsystem](./imagenes/lcd-soundsystem-2024.png)
 
 
 
