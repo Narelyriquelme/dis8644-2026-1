@@ -4,6 +4,18 @@
 
 ### pre-clase (teloneo Aaron)
 
+Referentes:
+1. Hainbach
+2. Cocoquantus
+3. Zizifo
+4. Texas instruments
+
+**Bob Widlar:** Wilarización es cuando algo te traiciona y lo rompes para que nunca más lo haga
+
+¿Qué es 8 bits?
+
+Ocupar tinkercad si no me funciona el sistema original
+
 ### clase
 
 - Primera parte: Aaron
