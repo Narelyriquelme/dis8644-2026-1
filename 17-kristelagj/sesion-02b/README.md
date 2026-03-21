@@ -31,6 +31,20 @@ A lo que Aaron me responde (parafraseo): siempre dicen que dicen más o menos, l
 
 - Segunda parte: Misaa
 
+Foto ejercicio
+
+Interrupción del circuito es cuando se saca algo de este
+
+foto del esquemático abstracto
+
+Grafo (topologia)
+
+**Capacitor o condensador:** Existen con polaridad o sin polaridad
+
+**Capacitor electrónico:** Es un dispositivo pasivo (no genera energía por sí mismo) que almacena energía en un campo eléctrico. Consiste en dos placas conductoras separadas por un material dieléctrico. Este diseño permite acumular carga eléctrica en las placas, creando así una diferencia de potencial. Hay de 1, 10, 100 μF
+
+**Capacitor cerámico:** son de valor fijo hechos de material cerámico como dieléctrico. Está formado por dos o más capas de cerámica y una capa de metal que actúan como  electrodos. El comportamiento eléctrico y, por lo tanto, las aplicaciones de los materiales cerámicos están determinados por la composición del material cerámico. Los cerámicos son compuestos inorgánicos, no metálicos, de óxido cristalino, nitruro o carburo, como el carbono y el silicio. Tenemos de 104, osea 100.000 pF
+
 
 ### imagenes de proceso
 
