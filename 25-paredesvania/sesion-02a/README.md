@@ -31,17 +31,17 @@
 - **Circuito paralelo:** Son indepencientes. Según Gemini es una configuración donde los componentes (resistencias, bombillas) comparten los mismos nodos de entrada y salida, creando caminos independientes para la corriente. El voltaje es igual en todos los componentes, mientras que la corriente total se divide entre las ramas. Si uno falla, los demás siguen funcionando.
 
 ![esquemáticoParalelo](./imagenes/esquematico.png)
-![circuito1](./imagenes/circuitoParalelo.png)
-![circuito](./imagenes/paralelo.HEIC)
+![circuito1](./imagenes/circuito-paralelo.png)
+![circuito](./imagenes/circuito-paralelo.heic)
 
 - **Circuito en serie:** Según gemini es una configuración eléctrica donde los componentes (resistencias, bombillas, etc.) se conectan uno tras otro, creando un único camino para la corriente eléctrica. La intensidad de corriente es constante en todo el circuito, mientras que el voltaje total se distribuye entre los componentes y la resistencia total es la suma de las individuales.
 
-![esquematicoSerie](./imagenes/esquematicoSerie.png)
+![esquematicoSerie](./imagenes/esquematico-serie.png)
 ![circuito](./imagenes/circuito3.png)
-![circuito](./imagenes/serie.HEIC)
+![circuito](./imagenes/circuito-serie.heic)
 
 ![circuito2](./imagenes/circuitos.png)
-![circuito2](./imagenes/circuito.HEIC)
+![circuito2](./imagenes/circuito.heic)
 
 ## Encargo: LQXTLC
 
@@ -52,7 +52,7 @@ Ejemplo: Si quito "R5", solo se apaga "D3". El resto se mantiene encendida.
 ### Ejercicio 1
 
 ![Circuito 1](./imagenes/lqxtlc1.png)
-![Circuito 1](./imagenes/ejercicio1.HEIC)
+![Circuito 1](./imagenes/ejercicio-1.heic)
 
 | reesistencias  | D1    | D2    | D3    | D4    |
 | ---                   | ---   | ---   | ---   | ---   |
@@ -65,7 +65,7 @@ Ejemplo: Si quito "R5", solo se apaga "D3". El resto se mantiene encendida.
 ### Ejercicio 2
 
 ![Circuito 2](./imagenes/lqxtlc2.png)
-![Circuito 2](./imagenes/ejercicio2.HEIC)
+![Circuito 2](./imagenes/ejercicio-2.heic)
 
 | resistencias | D1 | D2 | D3 |
 | -------------------- | -- | -- | -- |
@@ -81,7 +81,7 @@ Ejemplo: Si quito "R5", solo se apaga "D3". El resto se mantiene encendida.
 ### Ejercicio 3
 
 ![Circuito 3](./imagenes/lqxtlc3.png)
-![Circuito 2](./imagenes/ejercicio3.HEIC)
+![Circuito 2](./imagenes/ejercicio-3.heic)
 
 | resistencias | D1 | D2 | D3 | D4 |
 | -------------------- | -- | -- | -- | -- |
@@ -92,3 +92,8 @@ Ejemplo: Si quito "R5", solo se apaga "D3". El resto se mantiene encendida.
 | R5                   | 1  |  1 |  1 | 1  |
 | R6                   |  1 |  1 |  1 |  1 |
 
+#### Encargo
+
+1. hacer los ejercicios anteriores y documentar los resultados.
+2. elegir un disco particular de Kraftwerk, investigar avances de esa era, contexto de grabación, revisar presentaciones en vivo de esa época y contrastar con actuales. explicar qué escuchas en el disco, qué te llama la atención, describir en largo, no en corto.
+3. lo mismo que 2 pero con un disco de LCD Soundsystem.
