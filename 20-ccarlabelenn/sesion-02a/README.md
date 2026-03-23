@@ -24,6 +24,40 @@ facutura propia jeje
 |aluminio |cuero   |
 ---
 # encargo loquitoportilocoloco
++ ejercicio 1
+
+![ejercicio-uno](./imagenes/ejercicio-uno.jpg)
+
+|loquitoportilocoloco| d1 | d2 | d3 | d4 |
+|--------------------|----|----|----|----|
+|         R1         | 0  | 0  | 0  | 0  |
+|         R3         | 1  | 1  | 1  | 0  |
+|         R4         | 1  | 1  | 1  | 0  |
+|         R2         | 1  | 0  | 0  | 1  |
+|         R5         | 1  | 1  | 1  | 0  |
+
++ ejercicio 2
+
+![ejercicio-dos](./imagenes/ejercicio-dos.jpg)
+
+|loquitoportilocoloco| d1 | d2 | d3 | 
+|--------------------|----|----|----|
+|         R1         | 0  | 1  | 1  | 
+|         R2         | 1  | 0  | 1  | 
+|         R3         | 1  | 0  | 1  | 
+|         R4         | 1  | 0  | 1  | 
+|         R5         | 1  | 0  | 1  |
+|         R6         | 1  | 1  | 1  | 
+|         R7         | 1  | 1  | 1  | 
+|         R8         | 1  | 1  | 1  | 
+|         R9         | 1  | 1  | 1  | 
+
++ ejercicio 3
+
+![ejercicio-dos](./imagenes/ejercicio-dos.jpg)
+este no me resultó pero lo intentaré nuevamente jeje 
+
+---
 ![cover-tour-de-france](./imagenes/cover-tour-de-france.jpg)
 + Análisis Kraftwerk:
 
