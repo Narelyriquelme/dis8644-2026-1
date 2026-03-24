@@ -41,7 +41,18 @@ tiene un gran circulo central y 2 que lo rodean
 
 tiene un lado plano, ponerlo  hacia abajo
 
-# cable caiman #
+**cable caiman**
+
+
+# toy organ #
+
+![toyorgan](./imagenes/toi-organ.png)
+
+
+![foto1](./imagenes/ejercicio-1.jpg)
+
+
+![foto2](./imagenes/ejercicio-2.jpg)
 
 
 
