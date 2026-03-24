@@ -39,7 +39,9 @@ Permiten “repartir” el voltaje en un circuito (como en el ejemplo que nos hi
 
 Volviendo al ejemplo de la reserva de agua del profesor: 
 
-**Electricidad** = agua --- **Cable** = tubería --- **Resistencia** = una parte angosta del tubo *Mientras más angosta (más resistencia), menos agua pasa.*
+**Electricidad** = agua --- **Cable** = tubería --- **Resistencia** = una parte angosta del tubo 
+
+*Mientras más angosta (más resistencia), menos agua pasa.*
 
 
 
