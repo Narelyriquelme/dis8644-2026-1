@@ -39,4 +39,10 @@ La interpretación de "amor" como "sin muerte" (A-mors) es una etimología poét
 
 ![boton](./imagenes/boton.jpg)
 
+#### Encargo
+
 <https://www.555-timer-circuits.com/toy-organ.html>
+
+![boton](./imagenes/circuitotema.png)
+![boton](./imagenes/temazo.jpg)
+![boton](./imagenes/musica.mov)
