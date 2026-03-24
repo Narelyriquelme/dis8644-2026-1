@@ -101,7 +101,7 @@ no tiene polaridad
 
 Y dependiendo de la luz el foto resistor actua sobre el circuito que se observa en el led aumentando o disminullendo la velocidad
 
-### Preguntas para el encargo
+### Preguntas del encargo
 
 1. ¿Las diferentes luces de los led tienden a recibir distintas cantidades de energía e influyen si estas prenden o no?
 
