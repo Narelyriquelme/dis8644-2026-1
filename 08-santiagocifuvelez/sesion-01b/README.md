@@ -30,6 +30,8 @@ Agregando a lo anterior, los docentes y unxs compañerxs nos enseñaron unos cua
 
 Ya con esto claro, el profesor precedió a pasar de la teoría a la práctica, pasándonos los elementos necesarios para realizar el ejercicio: la protoboard, el clip de batería, la batería, la luz led, y otros elementos más y manos a la obra:
 
+![Circuitos](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-01b/imagenes/img3.jpg)
+
 (Mini video de como se veía)
 
 <a href="https://drive.google.com/file/d/131SRgDg_3Xw0F0CrGDG8Pfg3GBESx0ky/view?usp=drive_link">
