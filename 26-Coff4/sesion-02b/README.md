@@ -27,7 +27,13 @@ Circuito Integrado = Chip/ IC
 
 Punto significa conexión y sin punto no necesariamente hay una conexión directa.
 
-(Aquí iran los videos que aun no subo sobre los procesos de la clase)
+[![Camino 1](https://img.youtube.com/vi/IpAb8aLCJfw/0.jpg)](https://youtube.com/shorts/IpAb8aLCJfw)
+
+[![Speed II](https://img.youtube.com/vi/ecLbfNVz-H8/0.jpg)](https://youtube.com/shorts/ecLbfNVz-H8)
+
+[![Más lento](https://img.youtube.com/vi/wFkSE5FidAI/0.jpg)](https://youtube.com/shorts/wFkSE5FidAI)
+
+[![Potenciometro](https://img.youtube.com/vi/vL2KAdjDoQc/0.jpg)](https://youtube.com/shorts/vL2KAdjDoQc)
 
 ---
 
