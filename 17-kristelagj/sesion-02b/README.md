@@ -132,17 +132,15 @@ No existe un material conductor absoluto.. Los de cobre son los conductores por 
 5. **Batería:** ​Es un dispositivo que convierte energía química en eléctrica. Sirve como la fuente de energía (el "alimento") para que tu circuito pueda funcionar sin estar conectado a un enchufe.
 
 6. **potenciómetro B100k:** Es una resistencia variable. Sirve para que tú puedas controlar manualmente la intensidad de algo, como subir el volumen de un parlante o variar el brillo de una luz LED al girar su perilla. Mide la potencia. Tiene un comportamiento lineal.
-La letra "B" indica que el cambio de resistencia es constante y proporcional al giro de la perilla, controla la intensidad de luz o tono. Resistencia variable de 100kΩ 
+La letra "B" indica que el cambio de resistencia es constante y proporcional al giro de la perilla, controla la intensidad de luz o tono. Resistencia variable de 100kΩ
 
-7. **chip ic:**  Es una pastilla de silicio que contiene miles de componentes diminutos en su interior . Sirve para realizar funciones complejas (como procesar datos o amplificar sonido) en un espacio muy reducido. Contador de secuencialidad. Se coloca entorno al eje céntrico de la proto (tiene transistores dentro)
+7. **un broche de batería:** conecta la batería al circuito Rojo: Poder (arriba) Negro: Tierra (abajo) 
 
-8. **un broche de batería:** conecta la batería al circuito Rojo: Poder (arriba) Negro: Tierra (abajo) 
+8.  **Capacitor electrónico:** Es un dispositivo pasivo (no genera energía por sí mismo) que almacena energía en un campo eléctrico. Consiste en dos placas conductoras separadas por un material dieléctrico. Este diseño permite acumular carga eléctrica en las placas, creando así una diferencia de potencial. Hay de 1, 10, 100 μF
 
-9. **Capacitor electrónico:** Es un dispositivo pasivo (no genera energía por sí mismo) que almacena energía en un campo eléctrico. Consiste en dos placas conductoras separadas por un material dieléctrico. Este diseño permite acumular carga eléctrica en las placas, creando así una diferencia de potencial. Hay de 1, 10, 100 μF
+9.  **Capacitor cerámico:** son de valor fijo hechos de material cerámico como dieléctrico. Está formado por dos o más capas de cerámica y una capa de metal que actúan como  electrodos. El comportamiento eléctrico y, por lo tanto, las aplicaciones de los materiales cerámicos están determinados por la composición del material cerámico. Los cerámicos son compuestos inorgánicos, no metálicos, de óxido cristalino, nitruro o carburo, como el carbono y el silicio. Tenemos de 104, osea 100.000 pF
 
-10. **Capacitor cerámico:** son de valor fijo hechos de material cerámico como dieléctrico. Está formado por dos o más capas de cerámica y una capa de metal que actúan como  electrodos. El comportamiento eléctrico y, por lo tanto, las aplicaciones de los materiales cerámicos están determinados por la composición del material cerámico. Los cerámicos son compuestos inorgánicos, no metálicos, de óxido cristalino, nitruro o carburo, como el carbono y el silicio. Tenemos de 104, osea 100.000 pF
-
-11. **circuito integrado (IC):** es una abstracción de un circuito. También a estos se les llama chip, es un dispositivo semiconductor compacto y de alta eficiencia que contiene multitud de componentes electrónicos interconectados, como transistores, resistencias y condensadores, todos fabricados en una sola pieza de silicio.
+10. **circuito integrado (IC):** es una abstracción de un circuito. También a estos se les llama chip, es un dispositivo semiconductor compacto y de alta eficiencia que contiene multitud de componentes electrónicos interconectados, como transistores, resistencias y condensadores, todos fabricados en una sola pieza de silicio. Es una pastilla de silicio que contiene miles de componentes diminutos en su interior . Sirve para realizar funciones complejas (como procesar datos o amplificar sonido) en un espacio muy reducido. Contador de secuencialidad. Se coloca entorno al eje céntrico de la proto (tiene transistores dentro)
 
 -----------------
 
@@ -157,5 +155,6 @@ La letra "B" indica que el cambio de resistencia es constante y proporcional al 
 3. Lugares en youtube donde me expliquen la materia que estamos viendo y/o páginas que sean en español
 4. De que forma uno se puede aprender todos los nombres ¿tienen algún sistema/tabla/etc? Aún me cuesta
 5. El ejercicio de la clase pasada no lo entendí (el matematico) 
-6. 
+6. ¿donde puedo buscar más ejercicios para practicar?
+7. 
 
