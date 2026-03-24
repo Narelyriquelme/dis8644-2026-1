@@ -45,7 +45,9 @@ Impotan los colores de los cables y el espacio con la distribución
 Hacemos que este chip genera energia electrica que golpea los imanes de la bocina y la convierte en energía mecánica
 
 
-**experimento del profe conecta directamente la batería el polo positivo al parlante y el polo negativo también al negativo (el parlante se enguata) pero cuando se invierten los polos el parlante se contrae)**
+###experimento del profe
+
+**conecta directamente la batería el polo positivo al parlante y el polo negativo también al negativo (el parlante se enguata) pero cuando se invierten los polos el parlante se contrae)**
 
 Jhon Cage: es bueno en música y sonido y sabe sobre champiñones
 
