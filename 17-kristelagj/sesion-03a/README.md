@@ -4,6 +4,10 @@
 
 ### pre-clase (teloneo Aaron)
 
+**sokio:** artista chileno que vive en EE.UU Músico que escribió óperas que ahora volvió a ese rubro. Hizo música para peliculas
+
+**LCD:** hacen todo en vivo, en cambio sokio quiere hacerlo en vivo pero que algo lo este haciendo constantemente. 
+
 ### clase
 
 - Primera parte: Aaron
