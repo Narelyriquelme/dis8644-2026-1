@@ -66,7 +66,7 @@ luego de esto agregamos un cable en la pata 3 del potenciometro a la pata 7 del 
 
 en este punto ya no sabiamos que pasaba asi que revisando los resultados de nuestro compañeros nos dimos cuenta que teniamos algunos errores
 
-el cable que teniamos conectado en el primero boton a la resistencia 2, lo cambiamos directamente al potenciometro, a la pata 3
+el cable que teniamos conectado en el primero boton a la resistencia 2, lo cambiamos directamente a la pata 3 del potenciometro
 
 y pusimos un cable que iba de la resistencia 2 a la pata 2 del chip y finalmente funciono :)  
 aca va el encargo
