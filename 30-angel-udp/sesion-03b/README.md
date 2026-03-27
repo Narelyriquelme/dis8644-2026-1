@@ -31,3 +31,38 @@ Vamos a hacer otro juego con el botón con
 Vistamos el segundo modo de operación del 555 que se llama:
 
 ### Modo de operación 555 Monostable
+
+Construcción en clase
+
+**Robert Forrest MIMS**
+
++ HAWDBOOKS
+  
++ COOKBOOKS
+
+**Más de Diseño e ingenierias**
+
++ O´REILLY
+
++ WILEY
+
++ ROUTLEDGE
+
++ MAKE
+
+
+### ATARI PUNK CONSOLE
+
+Son 2 555
+  
+ usa un 555 astable y un 555 monostable
+
+ Lo que hacemos es construir abstrabciones: cajitas y primero se hace un astable
+
+ el atari punk console consiste en conectar un astable y un monostable
+
+Como cultura del occidente mantendremos la lectura de izquierda a derecha aunque se puesde deconstruir
+
+LDR: FOTO RESISTOR **porque significa Light Dependent Resistor (Resistor Dependiente de la Luz) en inglés**
+
+Atari
