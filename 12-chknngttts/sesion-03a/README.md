@@ -35,26 +35,25 @@
             - mientras menor uf, más rapido/agudo suena
             
 
-https://github.com/user-attachments/assets/cb364d94-11fe-41d5-97d5-a82c038dfc8d
+(video)
 
 
 - ### **con fotoresistor**
   - decidimos añadir un fotoresistor al protoboard para ver como se controlaria el sonido
  
 
-https://github.com/user-attachments/assets/ba4bdb9e-a0a1-4b79-bdf0-37af7b007964
+(video)
 
 - ### **ahora fotoresistor y potenciometro**
   - primero experimentamos más con como/donde poner el potencometro para manejar mejor el tono con la luz
 
-https://github.com/user-attachments/assets/d71e507b-4418-457a-b7f7-534d8abd7215
+(video)
 
   - intentamos tocando canciones simples
     - intento de "feliz cumpleaños"
 
 
-
-https://github.com/user-attachments/assets/50f857e5-37db-4d89-b2d2-fb45f96c2c6c
+(video)
 
   - tengo potencial
 
@@ -86,17 +85,17 @@ https://github.com/user-attachments/assets/50f857e5-37db-4d89-b2d2-fb45f96c2c6c
           - pero si sonaba interesante!!!
             - ![intento toy organ1](./imagenes/toy_organ21.jpg) ![intento toy organ2](./imagenes/toy_organ22.jpg) ![intento toy organ3](./imagenes/toy_organ23.jpg)
            
-https://github.com/user-attachments/assets/a1360b00-dafa-4844-bd64-4b825d612af1
+(video)
 
   - el boton estaba ahí por ninguna razón, no cambiaba nada
   - mi favorito (100uf)
     - suena fuerte y distorcionado
 
-https://github.com/user-attachments/assets/705e9db5-237f-4ad4-82dd-34e0aca97694
+(video)
 
   - le cambié la resistencia que da al parlante por una de 10uf
 
-https://github.com/user-attachments/assets/ca6b71ee-aebb-45fd-96db-4b6c7349be76
+(video)
 
   - le cambié el boton por 2 potenciometros para poder manejar mejor el tono
     - y un fotoresistor para manejarlo más rapido
