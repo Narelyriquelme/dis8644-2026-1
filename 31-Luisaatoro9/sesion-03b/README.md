@@ -44,8 +44,10 @@ Para dos resistencias en paralelo, la fórmula simplificada que mencionaste (mul
 * **o´eilly - willey - libros**
 * **Link libros:** https://docs.google.com/document/d/1gTPNpDtJLYWSLITBKJXJEM3XxiRnhSkOY_hltDzEYis/edit?usp=sharing
 * **Link conversión:** https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-resistor-color-code
-<img width="400" height="898" alt="Captura de pantalla 2026-03-27 110857" src="https://github.com/user-attachments/assets/b1f4ec71-2f1e-45fd-ab79-70cfeff5ae25" />
-<img width="380" height="934" alt="Captura de pantalla 2026-03-27 111123" src="https://github.com/user-attachments/assets/db52f551-42f6-4eda-a30f-ddb77377c0e2" />
+<img width="320" height="898" alt="Captura de pantalla 2026-03-27 110857" src="https://github.com/user-attachments/assets/b1f4ec71-2f1e-45fd-ab79-70cfeff5ae25" />
+<img width="325" height="934" alt="Captura de pantalla 2026-03-27 111123" src="https://github.com/user-attachments/assets/db52f551-42f6-4eda-a30f-ddb77377c0e2" />
+<img width="320" height="958" alt="Captura de pantalla 2026-03-27 112136" src="https://github.com/user-attachments/assets/fd6c567c-9a92-4e4e-851a-d7175e6af731" />
+
 
 # **Ejercicios:**
 
