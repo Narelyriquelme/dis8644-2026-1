@@ -4,22 +4,12 @@
 La **resistencia equivalente** es el valor único que reemplaza varias resistencias en un circuito, manteniendo el mismo efecto eléctrico.
 
 - **Serie:**  
-  La corriente es la misma en todas las resistencias, por lo que se suman directamente:  
-  \[
-  R_{eq} = R_1 + R_2 + R_3 + \dots
-  \]
-
+  La corriente es la misma en todas las resistencias, por lo que se suman directamente
 - **Paralelo:**  
-  El voltaje es común, y se calcula con la suma de los recíprocos:  
-  \[
-  \frac{1}{R_{eq}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \dots
-  \]
+  El voltaje es común, y se calcula con la suma de los recíprocos
+- **Caso especial (dos resistencias en paralelo)
 
-- **Caso especial (dos resistencias en paralelo):**  
-  \[
-  R_{eq} = \frac{R_1 \cdot R_2}{R_1 + R_2}
-  \]
-
+ 
 - **Posibilidades de cambios en el circuito:**  
   - Variar resistencias o capacitores para modificar tiempos o frecuencias.  
   - Usar potenciómetros para tener control ajustable.  
