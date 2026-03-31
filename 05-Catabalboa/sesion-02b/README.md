@@ -1,6 +1,6 @@
 # sesion-02b
 
-## Apuntes clase Martes 20 de marzo de 2026
+## Clase Martes 20 de marzo de 2026
 
 ### Apuntes de la clase
 
