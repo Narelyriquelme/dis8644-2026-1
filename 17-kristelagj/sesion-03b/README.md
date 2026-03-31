@@ -13,7 +13,7 @@
 
 ### post-clase
 
-Me quedo pendiente de ver el documental. Actualizado en la bitácora anterior. 
+Me quedo pendiente de ver el documental. Aún pendiente!
 
 Aproveche mi fin de semana para poder ir a “nada como una metáfora” realizado por el club sonoro deportivo. Lo genial es que sin pensarlo me encontré con un compañero de clases ahí y la experiencia se hizo más cálida. 
 
