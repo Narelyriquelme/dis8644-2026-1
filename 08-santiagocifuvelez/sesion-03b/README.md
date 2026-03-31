@@ -36,8 +36,7 @@ En esta, la corriente se divide en caminos, lo cual genera que la resistencia di
 
 ![paralelo](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-03b/imagenes/img2.jpg)
 
-Dos de 10k en paralelo → 5kΩ 
-
+Dos de 10k en paralelo → 5kΩ  
 Más caminos → menos resistencia total → más corriente
 
 As a way of sumary se vería de esta manera:
@@ -46,4 +45,7 @@ As a way of sumary se vería de esta manera:
 -Resistencia en paralelo → divide → disminuye resistencia.
 
 ## 2.	Circuito MONOSTABLE
+![monostable](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-03b/imagenes/img3.png)
 ## 3.	Ejercicio; unión de ASTABLE y MONOSTABLE 
+
+
