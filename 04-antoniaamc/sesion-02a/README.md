@@ -5,16 +5,16 @@ Primer circuito con luces led.
 
 **Esquema:**
 
-![apuntes](./sesion-02-a-apuntes)
+![apuntes](./sesion-02-a-apuntesjpeg)
 
 **Ejercicio aplicado:**
 
 Mi protoboard:
 
-![circuito](./imagenes/sesion-02-a-circuito1)
-![circuito](./imagenes/sesion-02-a-circuito2)
-![circuito](./imagenes/sesion-02-a-circuito3)
-![circuito](./imagenes/sesion-02-a-circuito4)
+![circuito](./imagenes/sesion-02-a-circuito1jpeg)
+![circuito](./imagenes/sesion-02-a-circuito2jpeg)
+![circuito](./imagenes/sesion-02-a-circuito3jpeg)
+![circuito](./imagenes/sesion-02-a-circuito4jpeg)
 
 El de mi compañera Luisa: 
 
