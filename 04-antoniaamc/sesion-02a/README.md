@@ -15,14 +15,14 @@ El título Autobahn, traducido al español como “*autopista*”. Hace alusión
 
 ![autobahn](./imagenes/autobahn-kraftwerk-cover.jpg)
 
-<https://en.wikipedia.org/wiki/Autobahn_(album)#/media/File:Autobahn-kraftwerk-cover.jpg>
+fuente: <https://en.wikipedia.org/wiki/Autobahn_(album)#/media/File:Autobahn-kraftwerk-cover.jpg>
 
 
 ### Portada Autobahn (Remasterizda 2009)
 
 ![autobahn](./imagenes/autobahn-2009.jpg)
 
-<https://en.wikipedia.org/wiki/Autobahn_(album)#cite_note-FOOTNOTEHooker1976-36>
+fuente: <https://en.wikipedia.org/wiki/Autobahn_(album)#cite_note-FOOTNOTEHooker1976-36>
 
 
 ## Reseña: 
@@ -63,7 +63,7 @@ Duración: 3:45 minutos.
 Duración: 4:02 minutos.
 
 
-- El álbum se grabó principalmente con sintetizador y caja de ritmos, con flauta y guitarra ocasionales. Brocker comentó que las melodías y armonías sencillas del grupo sugieren música pop.
+- *El álbum se grabó principalmente con sintetizador y caja de ritmos, con flauta y guitarra ocasionales. Brocker comentó que las melodías y armonías sencillas del grupo sugieren música pop.*
 
 ## Equipamiento:
 
@@ -72,13 +72,13 @@ Moog Minimoog Model D
 
 ![autobahn](./imagenes/moog-minimoog-model-d-00-xl.jpg)
 
-Equip Board: 
-https://equipboard.com/items/moog-minimoog-model-d
+fuente: Equip Board
+<https://equipboard.com/items/moog-minimoog-model-d>
 
 ### ARP 2008 Odyssey Rev1
 
-Equipboard
-https://equipboard.com/items/arp-2800-odyssey-rev1
+fuente: Equipboard
+<https://equipboard.com/items/arp-2800-odyssey-rev1>
 
 ![autobahn](./imagenes/arp-2800-odyssey-rev1-xl.jpg)
 
@@ -91,18 +91,38 @@ VOX V829 Percussion King
 
 ![autobahn](./imagenes/vox-percussion-king-drum-machine-1967-xl.jpg)
 
-Equipboard <https://equipboard.com/items/vox-percussion-king-drum-machine-1967>
+fuente: Equipboard <https://equipboard.com/items/vox-percussion-king-drum-machine-1967>
 
 
 - Teclados y sintetizadores usados por Ralf Hütler on Autobahn
 
 ![autobahn](./imagenes/korg-arp-odyssey-xl.jpg)
 
-Equipboard <https://equipboard.com/items/korg-arp-odyssey>
+fuente: Equipboard 
+<https://equipboard.com/items/korg-arp-odyssey>
 
 
 Vocoder, un analizador y sintetizador de voz que inicialmente fue desarrollado en la década de 1930 como un codificador de voz para telecomunicaciones. El Vocoder característico de Kraftwerk fue un dispositivo personalizado derivado de tecnología de voz, frecuentemente asociado con el sintetizador/vocoder de la marca alemana Sennheiser VSM 201.
 
 ![autobahn](./imagenes/vocoder-kraftwerk.jpg)
 
-https://es.wikipedia.org/wiki/Vocoder 
+fuente: <https://es.wikipedia.org/wiki/Vocoder>
+
+
+## Bibliografía
+
+- Audio Media International. (s.f.). *Deep cuts: Kraftwerk synths*. https://audiomediainternational.com/deep-cuts-kraftwerk-synths/
+
+- Wikipedia contributors. (s.f.). *Autobahn (album)*. Wikipedia. https://en.wikipedia.org/wiki/Autobahn_(album)
+
+- The Bradenton Herald. (1975). *Kraftwerk – Autobahn review*. https://www.newspapers.com/article/the-bradenton-herald-kraftwerk-autobahn/92684847/
+
+- Equipboard. (s.f.). *Moog Minimoog Model D*. https://equipboard.com/items/moog-minimoog-model-d
+
+- Equipboard. (s.f.). *ARP 2800 Odyssey Rev1*. https://equipboard.com/items/arp-2800-odyssey-rev1
+
+- Equipboard. (s.f.). *Vox Percussion King drum machine (1967)*. https://equipboard.com/items/vox-percussion-king-drum-machine-1967
+
+- Equipboard. (s.f.). *Korg ARP Odyssey*. https://equipboard.com/items/korg-arp-odyssey
+
+- Wikipedia contributors. (s.f.). *Vocoder*. Wikipedia. https://es.wikipedia.org/wiki/Vocoder
