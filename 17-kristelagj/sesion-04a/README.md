@@ -74,6 +74,23 @@ Condensadores:
 | 2 | 100 µF      | 35 V   |
 | 3 | 220 µF      | 63 V   |
 
+| Símbolo | Tipo de componente        | Descripción / Modelo        |
+|--------|--------------------------|----------------------------|
+| E      | Entradas                 | modelo                     |
+| SW     | Interruptor              | Witoft 205 9305            |
+| Q      | Transistores             | 5, 6, d                    |
+| Q      | Transistores             | K214 Z K5                  |
+| Q      | Transistores             | J77 3 H5                   |
+| D      | Diodos                   | Z5IN 93J                   |
+| D      | Diodos                   | 4935 8026                  |
+| D      | Diodos                   | 30B 402                    |
+| D      | Diodos                   | J2 30B                     |
+| C      | Capacitores              | MKS 4                      |
+| C      | Capacitores              | 1.0 µF / 63 V              |
+| C      | Capacitores no polarizados | 502                      |
+| R      | Resistencias             | 25R 3                      |
+| R      | Resistencias             | a 20% 9402          |
+
 - Zona 2
 
 ![zona 2](imagenes/zona-2.jpg)
