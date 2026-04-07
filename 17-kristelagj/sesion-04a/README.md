@@ -234,3 +234,5 @@ Desde afuera se ve como un simple par de manillas, pero adentro no sabes el gran
 
 Las primeras dos manillas conectan con una zona que nos indica si ganamos o no el juego, pero además tiene la mayor cantidad de zonas para que la pelota de energía llegue. Pero en cambio las siguientes dos manillas, tienen todos los puntos y combinaciones. Si no pasas por aquí, ganarás rápido, pero fácil. Aquí puedes condensar mucha energía para que después todo circule como si de sonic habláramos, pero ojo, hay una barrera que nos detendrá y así sucesivamente, cada turbo, tenemos una zona donde nos obliga a ir más lento. En esta parte tenemos también 2 salidas, la primera es seguir con este sistema, pero ganar más puntos y llegar a una salida aleatoria o pasar por una rueda que nos direcciona directo a el escape. Todo nos lleva a la salida.
 
+Debes tener cuidado con qué manilla manejas ya que a pesar de ser dos zonas distintas, todo está conectado, entonces un movimiento en falso, puedes perder. 
+
