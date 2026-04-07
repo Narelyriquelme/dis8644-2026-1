@@ -10,7 +10,7 @@
 - Chips  
 - Leds  
 
-![foto](./imagenes/tabla_de_resistencia.jpg)
+![foto](./imagenes/tabla-de-resistencia.jpg)
 
 ## Circuito básico
 ![foto](./imagenes/circuito-basico.png)
@@ -32,7 +32,7 @@ Los componentes se conectan en un solo camino. La corriente es la misma en todo 
 
 ## Ejercicio 1
 
-![foto](./imagenes/ej.1.png)
+![foto](./imagenes/ej-1.png)
 ![foto](./imagenes/ejercicio1.jpg)
 
 | loquitoportilocoloco  | D1    | D2    | D3    | D4    |
@@ -45,7 +45,7 @@ Los componentes se conectan en un solo camino. La corriente es la misma en todo 
 
 ## Ejercicio 2
 
-![foto](./imagenes/ej.2.png)
+![foto](./imagenes/ej-2.png)
 ![foto](./imagenes/ejercicio2.jpg)
 
 
@@ -62,7 +62,7 @@ Los componentes se conectan en un solo camino. La corriente es la misma en todo 
 
 ## Ejercicio 3 
 
-![foto](./imagenes/ej.3.png)
+![foto](./imagenes/ej-3.png)
 ![foto](./imagenes/ejercicio3.jpg)
 
 | loquitoportilocoloco | D1  | D2  | D3  | D4  |

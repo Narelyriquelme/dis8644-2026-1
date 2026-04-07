@@ -20,9 +20,9 @@ Broche de batería, se le conecta la batería y transporta energía al circuito
 
 Todo material se resiste pero el cobre se resiste menos 
 
-![materiales](./imagenes/materiales_feliz.jpeg)
+![materiales](./imagenes/materiales-feliz.jpeg)
 
-![materiales 2](./imagenes/materiales_normal.jpeg)
+![materiales 2](./imagenes/materiales-normal.jpeg)
 
 Cobre = 0,075
 
@@ -56,19 +56,19 @@ Cuero
 
 ### Código de color de resistencia 
 
-![codigo](./imagenes/codigos_colores_resistencias.jpg)
+![codigo](./imagenes/codigos-colores-resistencias.jpg)
 
 ### Fotos de la clase y apuntes
 
-![resultados](./imagenes/resultado_ejercicio_en_clase.jpeg)
+![resultados](./imagenes/resultado-ejercicio-en-clase.jpeg)
 
-![pizarra](./imagenes/apuntes_pizarra.jpeg)
+![pizarra](./imagenes/apuntes-pizarra.jpeg)
 
-![pizarra](./imagenes/como_anotar_imagen.jpeg)
+![pizarra](./imagenes/como-anotar-imagen.jpeg)
 
-![apuntes](./imagenes/apuntes_resistencia.jpg)
+![apuntes](./imagenes/apuntes-resistencia.jpg)
 
-![apuntes](./imagenes/apuntes_circuito_paralelo.jpg)
+![apuntes](./imagenes/apuntes-circuito-paralelo.jpg)
 
 ## Encargo 02a LQXTLC y analisis de discos
 

@@ -7,7 +7,6 @@ Nota del día: sinceramente no sé qué tiene esta clase contra mí, pero editan
 ## Referentes (y otras cosas)
 
 - **Cocoquantus** (instrumento musical) es un sintetizador y procesador de efectos artesanal diseñado por Peter Blasser para la marca Ciat-Lonbarde. Es conocido por su estética de madera, su flujo de trabajo esotérico y su sonido lofi y experimental.
-- **Peter Blasser**
 - **Ángel Abusleme** es _"ingeniero civil electricista y magíster en ciencias de la ingeniería por la Pontificia Universidad Católica de Chile. Además, es MSc y PhD en ingeniería eléctrica por la Universidad de Stanford, donde se especializó en diseño de circuitos integrados de señales mixtas. Actualmente, se desempeña como director y académico del Departamento de Ingeniería Eléctrica de la Pontificia Universidad Católica de Chile. Sus líneas de investigación son el desarrollo de instrumentos para experimentos de física de partículas y el diseño de circuitos integrados analógicos y de señales mixtas"_. - Profesor Asociado especializado en Diseño electrónico, microelectrónica, microcontroladores, sistemas embebidos.
 - **Bob widlar** fue un ingeniero electrónico estadounidense pionero en el diseño de circuitos integrados (CI) lineales. Es ampliamente reconocido como el "padre" de los amplificadores operacionales modernos y una de las figuras más brillantes y excéntricas de la historia de Silicon Valley. 
 
@@ -76,6 +75,8 @@ Probar distintos capacitores:
 - 1 µF = parpadeo muy rápido. (Va tan rápido que da la sensación de que la luz vibra; solo grabando desde el celular se logra realmente apreciar cuando la luz se apaga y se vuelve a prender).
 - 10 µF = parpadeo rápido, pero visible.
 - 100 µF = parpadeo lento.
+
+![cambioscapacitores](./imagenes/cambios.gif)
   
 1. Sustituir una resistencia por un potenciómetro para variar/controlar la velocidad del parpadeo.
 
@@ -87,8 +88,6 @@ El sensor funciona con luz, así que, en primera instancia, con la luz ambiental
 
 ![cambios](./imagenes/cambiosc.png)
 
-(queda pendiente subir los gifts de los cambios realizados) 
-
 ## Encargo-02b
 
 Practicar cualquiera de las materias que se hayan visto en clase, dejar ese registro en la bitácora. Ademas, escribir en la bitácora al menos 10 preguntas para la próxima sesión, sobre cualquier tema que hayamos revisado o mencionado. pueden ser preguntas técnicas, conceptuales, de diseño, etc.
@@ -96,6 +95,8 @@ Practicar cualquiera de las materias que se hayan visto en clase, dejar ese regi
 ### Practica 
 
 (más bien fue un repaso para entender bien algunos contenidos)
+
+#### Circuitos
 
 Primero me enfoque en los tipos de circuitos pasados en clase (básico, en serie y en paralelo) porque no creo haberlo entendido tan bien, con el objetivo de entender cómo funcionan, en qué se diferencian y qué efectos generan en el comportamiento de la corriente.
 
@@ -117,7 +118,9 @@ Entonces:
 | **Circuito en serie**    | Todo en una sola línea (uno tras otro) | La misma corriente pasa por todos | El voltaje se reparte               |  Se apaga todo                | Luces de navidad antiguas         |
 | **Circuito en paralelo** | Varias ramas (caminos separados)       | La corriente se divide            | El voltaje es el mismo en cada rama | Los demás siguen funcionando | Instalación eléctrica de una casa |
 
-Después, pase a revisar nuevamente la ley de OHM. Le pedí a ChatGPT que me lo explicara como si fuera un niño de diez años y me sorprendió porque me dio un ejemplo muy parecido al que dio Misaa en la clase (el de regar la flor), pero debo admitir que esta vez sí logré entender mejor todo. 
+#### Ley de OHM 
+
+Le pedí a ChatGPT que me lo explicara de la forma más fácil posible y me sorprendió porque me dio un ejemplo muy parecido al que dio Misaa en la clase (el de regar la flor), pero debo admitir que esta vez sí logré entender mejor todo. 
 
 Entonces: Imagina que la electricidad es como agua que viaja por una manguera. 
 
@@ -136,9 +139,9 @@ Ejemplo fácil:
 - Una pajita delgada: cuesta que pase el jugo (alta resistencia).
 - Un tubo grande: pasa mucho jugo rápido (baja resistencia).
 
-Entonces, la idea es:
+Entonces, la idea es: La electricidad depende de cuánto empujas y qué tan difícil es pasar.
 
-La electricidad depende de cuánto empujas y qué tan difícil es pasar.
+![leyohm](./imagenes/leyohm.png)
 
 Ahora, Para saber el “empuje” (**Voltaje**, V): 
 
@@ -189,9 +192,9 @@ En resumen (simplificado):
 - ¿Cómo hacer que el circuito tenga distintos ritmos y no solo uno?
 - algo más general que no tiene que ver directamente con el contenido de la clase de forma bruta: ¿qué se considera "música"? o ¿qué hace que algo sea llamado música y no solo sonidos aleatorios o sonidos en general? (¿será la intención que se le da?). 
 
-Si bien la actividad es dejar las preguntas para la próxima clase, aquí está la respuesta de algunas de las preguntas: 
+Si bien la actividad es dejar las preguntas para la próxima clase, aquí está la respuesta de algunas de las preguntas (más que nada porque me causo realmente mucha curiosidad, especialmente la pregunta de los leds): 
 
-- **¿Por qué algunos componentes funcionan con corriente continua (CC) y otros con corriente alterna (CA)?**
+#### ¿Por qué algunos componentes funcionan con corriente continua (CC) y otros con corriente alterna (CA)?
 
 Para empezar aquí hay una tabla resumen entre corriente continua y corriente alterna: 
 
@@ -200,13 +203,13 @@ Para empezar aquí hay una tabla resumen entre corriente continua y corriente al
 | **Corriente Continua (CC)** | Fluye de manera constante     | Siempre en un solo sentido | Línea recta        | Pilas, baterías  | Linterna, celular |
 | **Corriente Alterna (CA)**  | Va cambiando constantemente   | Cambia de sentido        | Onda (sube y baja) | Enchufes de casa | Refrigerador, TV  |
 
-- Corriente continua (CC)
+- **Corriente continua (CC)**
 
 Se usa porque es estable y no cambia.
 
 Entonces: Los componentes como chips, microcontroladores, celulares necesitan CC porque trabajan con señales precisas y constantes. “Necesitan que la electricidad sea tranquila y ordenada”
 
-- Corriente alterna (CA)
+- **Corriente alterna (CA)**
 
 Se usa porque es más eficiente para transportar energía.
 
@@ -216,7 +219,7 @@ CC = precisión (electrónica).
 
 CA = potencia y transporte (energía).
 
-- **¿Cuál es la principal diferencia en rendimiento entre THT y SMT más allá del tamaño?**
+#### ¿Cuál es la principal diferencia en rendimiento entre THT y SMT más allá del tamaño?
 
 Para empezar aquí hay una tabla resumen entre THT y SMT: 
 
@@ -250,7 +253,7 @@ THT = resistente y potencia.
 
 SMT = velocidad y eficiencia electrónica.
 
-- **¿Cómo funciona internamente un LED para emitir luz y por qué hace poco comenzaron a hacerlos de color azul? ¿Por qué estos ocupan más voltajes (los azules) y que hace que cada color de led funcione con distintos voltajes?**
+#### ¿Cómo funciona internamente un LED para emitir luz y por qué hace poco comenzaron a hacerlos de color azul? ¿Por qué estos ocupan más voltajes (los azules) y que hace que cada color de led funcione con distintos voltajes?
   
 Un LED (diodo emisor de luz) es un semiconductor con una unión p-n.
 
@@ -265,15 +268,12 @@ Es decir, “Cuando las cargas se juntan, sueltan energía en forma de luz”.
 
 ¿Por qué los LED pueden tener un color distinto?
 
-- El color depende de un concepto clave: la banda prohibida (o band gap) que es la energía que necesita el electrón para poder moverse y luego liberar luz.
+El color depende de un concepto clave: la banda prohibida (o band gap) que es la energía que necesita el electrón para poder moverse y luego liberar luz. El color depende del material del LED
 
 Ejemplo: 
 
 - Banda pequeña = menos energía = luz roja.
 - Banda grande = más energía = luz azul.
-
-El color depende del material del LED
-
 - Rojo = Arseniuro de galio (GaAs) y/o Arseniuro-fosfuro de galio (GaAsP) =  menos energía (bajo voltaje (~1.8 – 2.0 V))
 - Verde o amarillo = Fosfuro de galio (GaP) y/o variantes como GaAsP = energía media (voltaje medio (~2.0 – 2.5 V))
 - Azul = Nitruro de galio (GaN) y/o Nitruro de galio-indio (InGaN) = mucha energía (mayor voltaje (~3.0 – 3.5 V))

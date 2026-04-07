@@ -62,7 +62,7 @@
         - ![astable parlante mal 1](./imagenes/parlante-1-fail1.jpg) ![astable parlante mal 2](./imagenes/parlante-1-fail2.jpg)
           - no me funcionó
             - ![cara triste](./imagenes/sad.png)
-        - lo intenté denuevo con más orden en los colores de cable (gracias aaron)
+        - lo intenté denuevo con más orden en los colores de cable (gracias Aaron)
           - ![astable parlante mal 3](./imagenes/parlante-2-fail1.jpg)
             - no me funcionó
               - ![cara triste](./imagenes/sad.png)
@@ -78,6 +78,51 @@
           - ahora si funcionó conectandolo con el de mi compañero
             - al apretar el botón se activaba el parlante y el LED
               - y con el LDR se cambiaba la frecuencia del sonido
+             
+    - ## encargo
+      - teniamos que abrir dispositivos electronicos y ver el interiór de ellos
+        - ver las PCB y componentes como los resistores/condensadores/chips ic que puedan tener
+          - e intentar explicar como funcionan
+    - no tenía dispositivos que pueda abrir en mi casa por lo que fuí a una tienda de arreglos elecronicos
+      - aquí hay una placa madre de un laptop que estaban reciclando
+        - ![placa madre laptop 1](./imagenes/placa1-1.jpg) ![placa madre laptop 2](./imagenes/placa1-2.jpg)
+          - se ve donde va el CPU al medio izquierdo de la placa
+            - al rededor hay condensadores de distintos valores conectados a IC's
+          - ![placa madre laptop 3](./imagenes/placa1-3.jpg)
+            - aquí se ven los resistores
+              - estan acumulados abajo a la derecha
+                - no son los que nosotros trabajamos obviamente ya que necesitan otros valores y algo mas compacto
+                  - también se ve un PA102FDG
+                    - al parecer es un semi-conductor que sirve como switch o para amplificar señales en circuitos electricos
+                - por la locación en la que están soldados, asumo que estos componentes ayudan a manejar los slots del RAM en la placa
+          - ![placa madre laptop 4](./imagenes/placa1-4.jpg)
+            - se ven más IC's y resistores/condensadores
+              - estos contienen un reloj interno para asegurarse que todos los componentes estén sincronizados y funcionando al par
+                - también se ve impresa un texto indicando que los 4 pins al borde están ahí para conectar el fan del CPU
+                  - las cajas "R68" están ahí para que no se filtre ninguna señal o frequencia indeseada al resto de los componentes
+      - también me conseguí un laptop muerto para ver en otra tienda de arreglos electronicos
+        - el amigo de la tienda que amablemente me dejó ver el laptop me dió una mini-masterclass de que era cada parte y que hacían
+          - lamentablemente por falta de lenguaje tecnico entendí menos de la mitad de lo que decía (iguál anoté lo que pude)
+            - muy amable de igual manera ![emoji feliz](./imagenes/steampeace.gif)
+        - ![laptop full 1](./imagenes/laptop1-1.jpg)
+          - un laptop DELL
+            - más en grande
+              - se ven las distintas secciónes del laptop
+                - donde cada una hace algo especifico
+        - ![laptop full 2](./imagenes/laptop1-2.jpg)
+          - se puede ver el conectór para la batería y todos los componentes a cargo de manejar el VRAM
+            - se puede ver el VRAM en la parte superiór derecha de la foto
+              - la linea naranja que rodéa el VRAM tiene mini heatsinks para ayudar con el sobrecalentamiento
+        - ![laptop full 3](./imagenes/laptop1-5.jpg)
+          - en otro laptop encontré este componente muy interesante
+            - el que me atendió explicó que era un resistor de 0,005 Ω
+              - que es muy poco
+                - pero contaba que más que nada estaba ahí para poder calcular el voltaje (si no mal recuerdo)
+                  - el computador hace pasar corriente por ahí
+                    - el resistor es de muy bajo Ω pero tiene un margen de error minimo comparado con otros
+                      - y al hacer pasar corriente, usa la ley de ohm para calcular el voltaje internamente
+                        - esto debe ser asumo yo para tener una constancia de la energía usada por cierto sectór de la placa
+                          - además de asegurarse de que nada se queme/explote
              
       - ### **mini extra**
         - nuevamente musica electronica interesante
@@ -109,6 +154,28 @@
                   - Remixes muy buenos
                     - https://frostchildren.bandcamp.com/track/shake-it-like-a-jane-remover-remix
                       - uno de mis favoritos de JR
+                     
+        - ### **mini extra 2**
+          - también quiero poner a Ninajirachi
+          - ![ninajirachi ILMC](./imagenes/ninajirachi-i-love-my-computer.jpg)
+            - artista de EDM australiana
+              - que tuvo muchisimo exito con su ultimo album "I Love My Computer"
+            - encuéntro que es una de las artistas de EDM más clasicas e innovativas de los ultimos años
+              - tiene los elementos clasicos del EDM pero tiene algo muy exclusivo de Ninajirachi
+            - una canción que me encanta es "Fuck My Computer"
+              - https://ninajirachi.bandcamp.com/track/fuck-my-computer-2
+                - "I wanna fuck my computer, Coz no one in the world knows me better"
+                  - que de manera muy simple, habla de su relación con su computador
+                    - además de que tiene estos synths que nunca había escuchado antes
+                      - suenan como cuando movíamos el potenciometro, haciendo que la señal fuera "más rapida o lenta"
+                        - también tiene vocal chops suyos y de contedido pop como Walter White gritando
+            - otra canción muy buena es "CSIRAC"
+              - que más que la canción en sí, me interesó el nombre de la canción
+                - el "CSIRAC" fue el primer computador moderno de Australia
+                  - ![CSIRAC](./imagenes/csirac.jpg)
+                    - al parecer la memoria podia almacenar 2 kilobytes
+                      - algo que hoy en dia no es mucho
+                        - pero en la epoca (y claramente por el tamaño del computador) era algo impresionantemente dificil de lograr
                      
 
           - ![hola](./imagenes/lol.png)
