@@ -94,3 +94,19 @@ Averiguar que significa "Schmitt Trigger"
 https://moritzkleininstruments.com/
 
 https://www.ericasynths.lv/
+
+---
+
+### Respuesta encargo
+
+Un Schmitt trigger es un circuito electrónico que se utiliza para convertir señales de entrada inestables o con ruido en señales digitales más definidas.
+
+A diferencia de un comparador común, no trabaja con un solo nivel de referencia, sino con dos: uno para cuando la señal sube y otro distinto para cuando baja.
+
+Esta diferencia entre ambos niveles, conocida como histéresis, permite que la salida no cambie constantemente frente a pequeñas variaciones en la señal de entrada.
+
+Gracias a esto, se obtiene una respuesta más estable.
+
+Se utiliza principalmente para limpiar señales, evitar conmutaciones erráticas y facilitar la transición entre señales analógicas y digitales.
+
+Redacción. (s.f.). Schmitt Trigger: ¿Qué es y cómo funciona? Descubrearduino. Recuperado de https://descubrearduino.com/schmitt-trigger-que-es-y-como-funciona/
