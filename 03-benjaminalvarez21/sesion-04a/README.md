@@ -6,7 +6,7 @@ Circuit simulator applet es un simulador de circuitos electrónicos se pueden gu
 
 ### link
 
-https://www-falstad-com.translate.goog/circuit/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc
+<https://www-falstad-com.translate.goog/circuit/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc>
 
 Si algo mide mil de algo es kilo
 
@@ -16,7 +16,7 @@ después el Giga tiene 6 ceros  y luego el tera que tiene 12 ceros
 
 el uf que ponemos en la medida de los condensadores electrolítico es microfaradio y el nf que usamos en el condensador cerámico es nanofaradio
 
-pinout del chip:
+## pinout del chip
 
 Pin 1 (GND): Tierra o negativo de la alimentación.
 

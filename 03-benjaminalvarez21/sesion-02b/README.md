@@ -20,7 +20,7 @@ estuve buscando como subir videos a github y esta fue una de las formas que me s
 
 video de como subir videos
 
-https://www.youtube.com/watch?v=ssMNCIUPOLI
+<https://www.youtube.com/watch?v=ssMNCIUPOLI>
 
 ## encargo 02b
 

@@ -2,7 +2,7 @@
 
 El botón en el toy organ funciona como un stand by
  
-555 times circuits la biblia https://www.555-timer-circuits.com/
+555 times circuits la biblia <https://www.555-timer-circuits.com/>
 
 Tipos de circuitos: Astable, monoestable, bistable 
 
@@ -16,7 +16,7 @@ https://github.com/user-attachments/assets/78601756-2004-40be-ab26-7cf253f22ba3
 
 lenteja grande 104, lenteja enana 103 y la más enana es 471
 
-bibliografía interacciones inalámbricas https://docs.google.com/document/d/1gTPNpDtJLYWSLITBKJXJEM3XxiRnhSkOY_hltDzEYis/edit?usp=sharing
+bibliografía interacciones inalámbricas <https://docs.google.com/document/d/1gTPNpDtJLYWSLITBKJXJEM3XxiRnhSkOY_hltDzEYis/edit?usp=sharing>
 
 nada es perfecto lección de vida
 
@@ -52,4 +52,4 @@ como resultado pudimos ver que mientras menos uf es mas agudo el sonido
 
 aca un link de una calculadora de codigos de resistencias
 
-https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-resistor-color-code
+<https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-resistor-color-code>
