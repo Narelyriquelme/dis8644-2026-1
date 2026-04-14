@@ -51,4 +51,4 @@ As a way of sumary se vería de esta manera:
 
 ## 3. Ejercicio; unión de ASTABLE y MONOSTABLE
 
-![unión]()
+![unión](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-03b/imagenes/img4.jpeg)
