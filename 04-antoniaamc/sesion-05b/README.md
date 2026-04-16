@@ -1,18 +1,42 @@
 # sesion-05b
+10 de Abril 
 
-###Libro: Push turn move
-- experiencia de usuario
-  
+### Recomendación:
+- **Push turn move (Kim Bjørn)**: libro sobre instrumentos musicales electrónicos.
+El libro celebra el arte y la ciencia detrás del **diseño de interfaz** en la música electrónica explorando el mundo funcional, artístico, filosófico y estético contenido en la misteriosa conexión entre intérprete y máquina.
 
-##Interfaz instrumento
+Descripción y fotos de [Stratgear](https://stratgear.com/es/produto/push-turn-move/)
+*uhhhh*
 
-- wingdix: tipografia criptica
+### Rererentes:
 
-###Rererentes:
-- david Tyrne talking heads
+## David Byrne
+
+
+Presentaciones en vivo lol:
+- [David Byrne en "Martes 13" de Canal 13 (1990)](https://www.youtube.com/watch?v=7JV6yHFamcg&t=10s)  
+- [David Byrne en vivo en Coachella 2026](https://www.youtube.com/watch?v=Kn1vsMJk260&list=RDKn1vsMJk260&start_radio=1)
+
+1. DB en su promoción del álbum *Who is the Sky?* y su gira mundial correspondiente de 2026. ([link](https://www.rockaxis.com/vanguardia/noticia/47788/-who-is-the-sky--david-byrne-presenta-su-nuevo-album-de-estudio/))
+2. DB en 1987. Jack Mitchell/Getty Images. ([link](https://www.insidehook.com/style/understated-menswear-lessons-david-byrne))
+3. DB durante su gira mundial y espectáculo de Broadway "American Utopia" (2018). ([link](https://revistaladosis.com/david-byrne-american-utopia-world-tour-cdmx))
+4. DB durante su gira en 2026, interpretando canciones de Talking Heads. ([link](https://chicago.suntimes.com/music/2025/10/29/review-david-byrne-who-is-the-sky-tour-auditorium-chicago))
+5. :orange_book::large_blue_circle:: Portada álbum *"Speaking Tongues (Deluxe Version)"* (1983).
+6. :mount_fuji::partly_sunny:: Portada álbum *"Little Creatures"* (1985).
+
+   
 - st vincent: diseño d guitarra
+- 
+En 2012, Byrne sacó un álbum colaborativo con St. Vincent, llamado Love This Giant.
 
-##Indicacione instrumento (entrega grande)
+
+# Interfaz instrumento
+
+- **Wingdings:** tipografia criptica
+
+
+
+## Indicacione instrumento (entrega grande)
 
 - (2) interfaz de carton
 
@@ -20,11 +44,11 @@
 - transformar energia a traves del voltaje
 - k sea ordinario / belleza: contextual
 
-##Secuenciadores
+## Secuenciadores
 
 1. sss astable
 
-###Interpretación
+### Interpretación
 
 3 byts
 dos estados posibles elevado a 3: 8
@@ -55,6 +79,7 @@ secuanciador impelementado con **4017**
    891011212...
 
 * estudiar chips
+* (555, 4017, 
 
   tierra / 9 byts
 
