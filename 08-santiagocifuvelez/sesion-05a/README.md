@@ -10,3 +10,11 @@ El día de hoy vamos a ver:
 4.	Lógica de Boole
     
 So, let´s start c:
+
+## 1. Simulador de Eurorack.
+
+1.	VCV Rack es una app en la web de síntesis modular virtual, inspirado en los sistemas de sintetizadores analógicos físicos (como los modulares Eurorack).
+
+En pocas palabras, es una plataforma donde puedes crear sonidos desde cero conectando módulos virtuales . Cada módulo cumple una función específica (osciladores, filtros, envolventes, secuenciadores, etc.), y tú decides cómo conectarlos mediante “cables”, igual que en un sistema real. Lo interesante es que: no hay una única forma de uso: es totalmente abierto y experimental, permite entender de manera práctica cómo funciona la síntesis de sonido, se utiliza tanto para música electrónica como para diseño sonoro más experimental. 
+
+Agregando a lo anterior, VCV Rack es como un “laboratorio digital” donde construye tus propios sintetizadores pieza por pieza y exploras cómo se genera y transforma el sonido.
