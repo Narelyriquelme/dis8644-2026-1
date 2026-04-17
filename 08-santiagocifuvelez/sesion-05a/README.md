@@ -24,3 +24,15 @@ Agregando a lo anterior, VCV Rack es como un “laboratorio digital” donde con
 ## 2.	Abreviaturas y sus significados.  
 
 Aquí tenemos unas abreviaturas utilizadas en VCV RACK, que nos ayudarán a entender las funciones de los elementos que tengan estas “iniciales”. 
+
+**VC (Voltage Controlled)**  
+Significa “controlado por voltaje”.  
+Indica que un módulo responde a señales eléctricas (voltajes) para modificar su comportamiento. Por ejemplo, un parámetro como volumen o frecuencia puede cambiar automáticamente según un voltaje externo.
+
+**VCO (Oscilador controlado por voltaje)**  
+Oscilador controlado por voltaje.  
+Es el módulo que genera el sonido base (ondas como seno, cuadrado, diente de sierra, etc.), y su frecuencia (tono) se controla mediante voltaje.
+
+**LFO (Oscilador de baja frecuencia)**  
+Oscilador de baja frecuencia.  
+No se usa directamente para escuchar sonido, sino para modular otros parámetros (como vibrato, trémolo o movimiento en filtros). Genera señales lentas que crean cambios en el tiempo.
