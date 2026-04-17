@@ -15,7 +15,7 @@ So, let´s start c:
 
 ![vcvrackkkk](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05a/imagenes/vcvrack.jpeg)
 
-1.	VCV Rack es una app en la web de síntesis modular virtual, inspirado en los sistemas de sintetizadores analógicos físicos (como los modulares Eurorack).
+VCV Rack es una app en la web de síntesis modular virtual, inspirado en los sistemas de sintetizadores analógicos físicos (como los modulares Eurorack).
 
 En pocas palabras, es una plataforma donde puedes crear sonidos desde cero conectando módulos virtuales . Cada módulo cumple una función específica (osciladores, filtros, envolventes, secuenciadores, etc.), y tú decides cómo conectarlos mediante “cables”, igual que en un sistema real. Lo interesante es que: no hay una única forma de uso: es totalmente abierto y experimental, permite entender de manera práctica cómo funciona la síntesis de sonido, se utiliza tanto para música electrónica como para diseño sonoro más experimental. 
 
