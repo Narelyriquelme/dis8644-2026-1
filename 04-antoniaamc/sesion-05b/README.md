@@ -73,6 +73,7 @@ Fuentes:
 ---------------------------------------------
  
 ## Código Binario  
+🟨⬜🟪⬛  
 Método de representar datos o instrucciones utilizando únicamente los dígitos 0 y 1. Es el **idioma base** de las computadoras para comunicarse y almacenar información. Datos como texto, imágenes y sonido se transforman en código binario para poder ser procesados, cuando necesita realizar una tarea, esta se traduce al sistema binario y luego es ejecutada.
 
 Fuente: ¿Qué es un sistema binario?, [Lenovo](https://www.lenovo.com/cl/es/glosario/sistema-binario/?orgRef=https%253A%252F%252Fwww.google.com%252F)
