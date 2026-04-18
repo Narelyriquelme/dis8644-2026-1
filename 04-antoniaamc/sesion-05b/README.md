@@ -151,7 +151,9 @@ Convierte una señal analogica ruidosa en una limpia, como si las ondas oscilant
 
 🕷️🕷️ Fuente: [Technology Ariat](https://www.ariat-tech.es/blog/a-deep-dive-into-the-working-principles-and-applications-of-the-ic-4017.html)
 
-![bitacora-05-b](./imagenes/circuito-intgrado-4017-borrador-principal.jpg)
+![bitacora-05-b](./imagenes/circuito-intgrado-4017-borrador-principal.jpg)  
+
+Fuente: *Máquinas sonoras, electrónicas y computacionales - Estrategias y recetas* (Aarón Moraga, Matías Serrano)
 
 # CD4017 — Patitas y funciones
 
