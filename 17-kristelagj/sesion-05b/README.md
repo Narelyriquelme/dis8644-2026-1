@@ -16,7 +16,6 @@ Gracias a esto, no sé si lo he mencionado antes, pero hay algo que me ha estado
 - **ST vincent:** guitarra para no molestar los pechos. Otro instrumento que está hecho para hombres, como lo es el celular, ya que está hecho al estándar de mano del hombre, hombre refiriéndose al sexo masculino)
 - compo de sentido
 
-
 ### clase
 
 - Misaa
@@ -29,10 +28,21 @@ Esta parte de la clase fue mucho más rápida y realizamos mucho trabajo en grup
 
 Hoy implementamos el chip 4017
 
-- Contador de décadas es de Q0 a Q9
+![4017](imagenes/circuito-integrado-cd4017.jpg)
 
-### imagenes de proceso
+- Contador de décadas es de Q0 a Q9
 
 ### post-clase
 
 El mismo día de la clase, por la tarde tuve la oportunidad de poder ir al lanzamiento del álbum Umbral de cómo asesinar a felipes (CAF) y en este álbum participa Martín Benavides el cual toca el theremin y fue increíble la experiencia. Quedé impresionada con la agilidad que podía tocar y hacer lo mismo que en la grabación. También como mencioné más arriba David Byme estuvo en mis pensamientos porque CAF hacía algo parecido, los movimiento coreográficos, pero cada uno por su lado. 
+
+
+https://github.com/user-attachments/assets/b8bd47d0-6359-42ea-8088-7a1d83153d39
+
+
+https://github.com/user-attachments/assets/7f12ef6c-0c6b-4c55-a8c6-adcbc0a480ba
+
+
+
+
+
