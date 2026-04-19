@@ -21,5 +21,5 @@ El **4017** es un circuito integrado que funciona como un contador decimal: reci
 
 ![clock y secuenciador](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05b/imagenes/secuenciador-as-an-img.jpeg)
 
-Si funcionó epicamente :).
-omgg so exiteddd 
+Si funcionó epicamente :).  
+Omgg so exiteddd 
