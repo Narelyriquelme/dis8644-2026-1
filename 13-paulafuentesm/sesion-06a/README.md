@@ -25,7 +25,7 @@
 + se ocuparon chip 555 - 4017 - 4093
 + se agraga una salida de parlaten alfinal
 
-![4pasos](https://github.com/paulafuentesm/dis8644-2026-1/blob/2ce3574a4457e589278e9ab6944be07ccd533f46/13-paulafuentesm/sesion-06a/imagenes/ejercicio/4pasos.pdf)
+![4pasos](https://github.com/paulafuentesm/dis8644-2026-1/blob/2dc2d52d0b8f82fddb086983cd40040dbd95627a/13-paulafuentesm/sesion-06a/imagenes/ejercicio/4pasos.png)
 Imagen: extraida del repositorio de Misaaaa.
 
 **Metodologia grupal:** Cada integrante comenzó desarrollando un módulo distinto. Una vez finalizados, los íbamos intercambiando entre los tres para revisarlos y detectar posibles errores o conexiones incorrectas. A mí me correspondió trabajar con el 4093 (mencionado para contexto futuro). Además, verificábamos el funcionamiento según lo aprendido en clases: utilizando LEDs como indicadores y comprobando si cada botón generaba sonido.
