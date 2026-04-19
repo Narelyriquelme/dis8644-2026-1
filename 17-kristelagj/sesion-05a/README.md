@@ -17,6 +17,10 @@ Hoy se nos presentó que realizaremos de primera entrega: un sintetizador
 | VCF   | Filtro Controlado por Voltaje            | Moldea el timbre del sonido filtrando frecuencias                          | Filtrar armónicos de la señal              | Frecuencia de corte      |
 | VCO   | Oscilador Controlado por Tensión         | Genera señales periódicas cuya frecuencia depende del voltaje de entrada   | Generar la señal base (onda)               | Frecuencia (pitch)       |
 
+Salida de VCO
+![vco](imagenes/vco.jpg)
+
+
 ![RUIDO](imagenes/ruido.jpg)
 
 ### imagenes de proceso
