@@ -14,4 +14,10 @@ El sonido que produce el circuito es variado, con el potenciometro puede cambiar
 Estuvimos desarrollando e intentando hacer el circuito 555, 4017, 4093 synth ya que en la clase pasada no nos funcionaba. Creemos que era la parte que tiene el chip del 555, pero en realidad nunca descubrimos por qué. 
 El problema es que no suena nada en el amplificador, ahora en el primer intendo de esta clase tampoco suena.
 
-![nandulator en protoboard](./imagenes/SYNTHproyectouno)
+![video de NANDulator sonando](https://photos.app.goo.gl/DgD6jD5hn7U17rw19)
+
+
+![NANDulator en protoboard](./imagenes/nandulator.jpg)
+
+
+![Comofunciona un secuenciador4017](./imagenes/secuanciador.png)
