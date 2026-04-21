@@ -2,7 +2,8 @@
 
 ## Schmitt Trigger
 
-Un **Schmitt Trigger** es un comparador con histéresis.
+
+de nuevo se habló de schmitt trigger, ya lo habia investigado un poquitoooooo pero buenoo, un **Schmitt Trigger** es un comparador con histéresis.
 
 ### Función:
 Convierte señales analógicas ruidosas en señales digitales limpias.
@@ -11,12 +12,12 @@ Convierte señales analógicas ruidosas en señales digitales limpias.
 
 ### Ejemplo real: CD4093
 
-- 4 compuertas NAND
+- 4 compuertass
 - Entradas con histéresis
 
 ### Usos:
-- Debouncing (botones)
-- Osciladores RC
+- botones
+- Osciladores 
 - Limpieza de señal
 
 ---
@@ -30,6 +31,8 @@ Convierte señales analógicas ruidosas en señales digitales limpias.
 El Schmitt Trigger es un comparador mejorado:
 - Añade memoria
 - Mayor estabilidad
+
+bueno mis notas estan un povo desordenadas pero de alguna forma entiendo perfectamente jijiji
   
 ![notas](./imagenes/notas.jpeg)
 ---
@@ -59,9 +62,7 @@ La histéresis implica que:
 | NAND | AND negada |
 
 
-## Sistema práctico con ICs
-
-### Componentes:
+### Componentes chips :)))
 - NE555 
 - CD4017 
 - CD4093 
@@ -94,33 +95,26 @@ El **CD4017**:
 ## Problemas comunes
 
 Sin histéresis:
-- Oscilaciones no deseadas
-- Rebotes
+- Oscilaciones no deseadas .
 - Señales inestables
 
 ---
 
 ##  Aplicaciones
 
-- Botones (debounce)
-- Sensores analógicos → digital
+- Botones 
+- Sensores 
 - Osciladores
 - Sistemas secuenciales
 - Interfaces electrónicas
 
 ---
 
-## resumennn
-
-- Histéresis → introduce memoria
-- Schmitt Trigger → limpia señales
-- Comparador → toma decisiones
-- CD4093 → histéresis integrada
-- NE555 → genera señales
-- CD4017 → secuencia digital
 
 ## ejercicio en clases 
-Bueno, el circuito no nos funcionó completamente. Solo logramos que encendieran las luces en las dos primeras partes del circuito; el resto no funcionó en absoluto.
+Bueno, el circuito no nos funcionó completamente. Solo logramos que encendieran las luces en las dos primeras partes del circuito, el resto no funcionó en absoluto.
 ![sesion06a](./imagenes/sesion06a.jpeg)
 ![sesion06aa](./imagenes/sesion06aa.jpeg)
-
+ 
+controlar la frustración, seguir, seguir y seguir!! hasta lograrlo
+No pensar constantemente en que repetí mil veces los pasos, solo mirar al futuro jiji 
