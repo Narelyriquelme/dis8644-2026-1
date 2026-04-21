@@ -2,13 +2,14 @@
 
 ## integrantes
 
-- nombres apellidos github
-- nombres apellidos github
-- nombres apellidos github
+- Santiago Cifuentes (santiagocifuvelez)
+- Paula Fuentes (paulafuentesm)
+- Kristel Ladrón de Guevara (kristelagj)
 
 ## descripción del sintetizador realizado
 
-3 párrafos explicando el proyecto
+Precarias es un s
+
 
 imagen del sintetizador en su contexto
 
