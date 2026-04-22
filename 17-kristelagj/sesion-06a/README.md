@@ -32,5 +32,10 @@ Por ejemplo, si algo se enciende el 18°C y apaga con el 24°, no estará encend
 - 4093 tiene 4 NANDS
 - 4017 es un contador de decadas, secuenciador.
 
-### post-clase
+![4017](imagenes/4017.jpg)
 
+![4093](imagenes/4093.jpg)
+
+En esta clase ya nos adentramos a realizar el sintetizador, a algunos les funciono, pero a nosotros solo nos funcionó la primera parte (555 y 2017)
+
+![sintetizador](imagees/sintetizador.png)
