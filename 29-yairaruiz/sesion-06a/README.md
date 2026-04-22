@@ -34,6 +34,8 @@ El Schmitt Trigger evita eso y entrega una señal clara y estable.
 
  ## Proyecto 01 – Primer avance ##
 
+ ![esquematico](./imagenes/esquematico.jpg/)
+
 Se dividió el trabajo en tres partes:
 
 + Clock
@@ -42,10 +44,10 @@ Se dividió el trabajo en tres partes:
 
 Cada integrante trabajó su parte por separado en distintas protoboards.
 
-Durante el proceso surgieron problemas al trabajar de forma separada, ya que dificultó la integración del circuito completo.
+Durante el proceso nos surgieron problemas al trabajar de forma separada, ya que dificultó la integración del circuito completo.
 
-En el clock y el secuenciador se presentó una falla con un LED que no encendía. Se cambiaron componentes (LED y resistencia), pero el problema continuó, por lo que se asume que puede ser un error de conexión o del circuito.
+En el clock y el secuenciador se nos presentó una falla con un LED que no encendía. Se cambiaron componentes (LED y resistencia), pero el problema continuó, al final logramos descubrir que el problema era el chip 555, así que al reemplazarlo, funcionaron todos los LEDS. 
 
-También hubo limitaciones de espacio, ya que solo se contaba con tres protoboards pequeñas, lo que impidió implementar correctamente el sintetizador.
+También hubo limitaciones de espacio, ya que solo se contabamos con tres protoboards pequeñas, lo que impidió implementar correctamente el sintetizador.
 
-Se decidió priorizar la solución del problema del LED y dejar el armado del sintetizador para la siguiente sesión, considerando traer protoboards más grandes para facilitar el montaje.
+Decidimos priorizar la solución del problema del LED y dejar el armado del sintetizador para la siguiente sesión, considerando traer protoboards más grandes para facilitar el montaje.
