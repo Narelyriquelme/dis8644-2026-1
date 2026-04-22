@@ -1,9 +1,9 @@
 # el tincado-04
 
 ## integrantes
-+ antonia Loch
-+ nicolás Valdés
-+ carla Núñez
++ antonia loch
++ nicolás valdés
++ carla núñez
 
 ## descripción del sintetizador realizado
 
