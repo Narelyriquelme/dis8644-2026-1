@@ -35,7 +35,11 @@ Con el sistema ya operativo, comenzamos a experimentar con los sintetizadores y 
 
 ![trabajoenclase](./imagenes/trabajoenclase.png)
 
-(pendiente subir los videos por qué no supe como hacerlo)
+videos del avance: (reproducir con audio!!)
+
+https://github.com/user-attachments/assets/18822ace-0a86-40e5-b8be-09264a99a16d
+
+https://github.com/user-attachments/assets/04e532cc-fa6f-4008-9e11-089d3ce75ca7
 
 ### Ideas generales (carcasa)
 
