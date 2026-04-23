@@ -77,8 +77,11 @@ Se definió el sonido y los capacitores a utilizar:
 ## carcasas de cartón
 
 La construcción se plantea como un sistema modular, formando la figura de un “robot” llamado Rodolfo, en el cual se organiza el circuito de una forma fácil de comprender y manipular.
+
 Rodolfo se compone de cuatro módulos que almacenan distintas partes del circuito. En la cabeza se ubican el reloj y el secuenciador. Esta sección es la encargada de generar y organizar los impulsos eléctricos que determinan el ritmo y la activación del resto de los componentes.
+
 El torso concentra los osciladores, que son responsables de generar las señales sonoras. Su ubicación en el centro permite una distribución más eficiente de las conexiones hacia las otras partes.
+
 Los brazos, ubicados a ambos lados, contienen los amplificadores. Estos módulos toman la señal generada en el torso y la potencian, permitiendo que el sonido sea audible y tenga mayor presencia.
 
 ## interconexión entre módulos
@@ -99,13 +102,12 @@ A lo largo del proyecto se cometieron diversos errores que afectaron el desarrol
 
 A partir de estos errores, se logró comprender la importancia de organizar de forma adecuada las conexiones entre los componentes, con el fin de facilitar la lectura del circuito. Asimismo, fue necesario verificar el estado de las baterías y aislarlas para evitar el contacto con otros componentes y su descarga, previniendo así diagnósticos erróneos. Por último, también se volvió fundamental comprobar que cada componente sea el correcto y que esté funcionando adecuadamente antes de integrarlo al sistema.
 
-
 ## conclusiones
 
 En conclusión, el desarrollo del proyecto nos permitió construir un circuito funcional y modular, comprendiendo de mejor manera su funcionamiento a lo largo del proceso. La división del sistema en módulos facilitó tanto la comprensión como la manipulación del circuito, permitiendo realizar correcciones de forma independiente en cada etapa. Las pruebas y errores fueron fundamentales, ya que nos entregaron aprendizaje constante y nos ayudaron a avanzar hasta lograr un resultado correcto.
 
 Comprender el funcionamiento y la correcta disposición de los componentes electrónicos facilitó la lectura del circuito y la resolución de problemas. Además, mantener un orden en el uso de colores en las conexiones aportó claridad durante la construcción, permitiendo identificar errores de forma más rápida.
+
 Por otra parte, la materialidad del proyecto, representada en la forma de un robot, ayudó a visualizar la relación entre las distintas etapas del circuito, favoreciendo una mejor organización de los componentes y su distribución.
 
 Finalmente, el trabajo en equipo fue fundamental durante todo el proceso. Trabajar de manera conjunta en cada etapa permitió compartir ideas, detectar errores y proponer soluciones de forma colaborativa, donde el apoyo mutuo fue clave para el desarrollo y finalización del proyecto.
-
