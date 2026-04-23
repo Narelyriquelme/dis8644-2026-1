@@ -11,6 +11,8 @@ El simulador de Eurorack se entiende como una extensión digital de los sistemas
 Para explorar directamente este tipo de entorno se puede utilizar el siguiente simulador:
 https://vcvrack.com/
 
+<img width="1536" height="1024" alt="SimuladorEurorackpartesyfuncionamiento" src="https://github.com/user-attachments/assets/89eebd52-d40b-4a25-9362-8e75f877c980" />
+
 ---
 
 ### Abreviaturas y sus significados
@@ -51,17 +53,5 @@ En el contexto de la síntesis y la electrónica, esta lógica se puede ver como
 - Conceptos básicos de electrónica: https://www.electronics-tutorials.ws/  
 
 ---
-### Lógica de Boole
+ 
 
-La lógica de Boole introduce una forma distinta de pensar los circuitos, más cercana a decisiones que a flujos continuos. En lugar de trabajar con valores intermedios, se basa en estados claros, donde algo ocurre o no ocurre. Esto permite estructurar comportamientos dentro de un sistema, como activar o desactivar procesos dependiendo de ciertas condiciones. En el contexto de la síntesis y la electrónica, esta lógica se puede ver como una capa que organiza el funcionamiento general, permitiendo generar patrones, secuencias o interacciones más complejas entre señales. Más allá de lo técnico, lo interesante es cómo esto refleja una forma de pensamiento: reducir situaciones a decisiones básicas que, al combinarse, construyen sistemas más grandes.
-
----
-
-### Fuentes
-
-- Apuntes de clase – Taller de informática, Diseño de máquinas electrónicas.  
-- Documentación y uso de simuladores de Eurorack (VCV Rack y entornos similares).  
-- Manuales introductorios de síntesis modular (Doepfer / Make Noise).  
-- Referencias generales de electrónica básica y comportamiento de señales.  
-
----
