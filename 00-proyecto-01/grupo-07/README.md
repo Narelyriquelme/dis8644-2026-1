@@ -98,4 +98,10 @@ las mejores lecciones aprendidas y los errores más comunes y cómo los resolvie
 
 ## conclusiones
 
-sobre modularidad, materialidad, trabajo en equipo, trabajo electrónico, trabajo maquinal.
+En conclusión, el desarrollo del proyecto nos permitió construir un circuito funcional y modular, comprendiendo de mejor manera su funcionamiento a lo largo del proceso. La división del sistema en módulos facilitó tanto la comprensión como la manipulación del circuito, permitiendo realizar correcciones de forma independiente en cada etapa. Las pruebas y errores fueron fundamentales, ya que nos entregaron aprendizaje constante y nos ayudaron a avanzar hasta lograr un resultado correcto.
+
+Comprender el funcionamiento y la correcta disposición de los componentes electrónicos facilitó la lectura del circuito y la resolución de problemas. Además, mantener un orden en el uso de colores en las conexiones aportó claridad durante la construcción, permitiendo identificar errores de forma más rápida.
+Por otra parte, la materialidad del proyecto, representada en la forma de un robot, ayudó a visualizar la relación entre las distintas etapas del circuito, favoreciendo una mejor organización de los componentes y su distribución.
+
+Finalmente, el trabajo en equipo fue fundamental durante todo el proceso. Trabajar de manera conjunta en cada etapa permitió compartir ideas, detectar errores y proponer soluciones de forma colaborativa, donde el apoyo mutuo fue clave para el desarrollo y finalización del proyecto.
+
