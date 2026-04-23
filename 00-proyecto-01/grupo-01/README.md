@@ -19,6 +19,8 @@ En cuanto a modificaciónes de los circuitos base, en el Schmitt Trigger del pin
 
 imagen del sintetizador en su contexto
 
+![Esquemático Original del NANDulator](./imagenes/nandulatorplanosoriginales.gif)
+
 audio o video del sintetizador en acción
 
 ## proceso y resultados del reloj y secuenciador
