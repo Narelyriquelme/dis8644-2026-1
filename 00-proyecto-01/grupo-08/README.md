@@ -85,6 +85,8 @@ Esto nos ayudó a evitar cruces innecesarios y a que el circuito no se viera sat
 
 El trabajo en equipo fue un aspecto muy positivo para nosotras. Avanzamos de manera más rápida y nos apoyamos mutuamente en la resolución de los problemas. El hecho de que empezáramos haciendo cada parte por separado fue un gran error, porque dificulta la integración final del circuito y generó confusiones en las conexiones. 
 
+https://github.com/user-attachments/assets/b09d2e3b-e0e3-4841-a123-3b2d43d66c03
+
 Los errores más comunes en relación al armado fueron principalmente el uso de chips malos, como el 555, que nos impidió el encendido correcto de los LED. Otro error común fue que no nos fijamos que una resistencia de 220 se había soltado en la parte del secuenciador, lo que hacía fallar el funcionamiento del circuito.
 
 La conexión incorrecta de componentes en el chip 386, específicamente los condensadores, fue un error importante porque impedía la salida de audio. Al corregir estas conexiones e incorporar el condensador de 100uF, se logró estabilizar la señal.
