@@ -72,7 +72,7 @@ el chip 4017 fue el único con el cual no tuvimos problemas, ya que cuando lo co
 
 ### CD4093 y LM386 
 
-con los chips que más tuvimos problemas fueron el 4093 y el 386, ya que al inicio, cuando los armamos por primera vez y los conectamos al parlante para ver si sonaba, no pasó nada. como no entendíamos cuál era el problema, fuimos a buscar ayuda con Misa y nos explicó que deberíamos probar de manera independiente cada chip antes de conectar todo y probar con el parlante, por lo que hicimos exactamente eso. cuando probamos si funcionaba el 386, seguimos el esquemático que hizo Misa en la pizarra y no logramos ver que funcionara, por lo que pedimos ayuda a nuestros compañeros Vania y Nicolás que estaban junto a nosotros en el Laboratorio de Interacción Digital. Vania se acercó a ver nuestros circuitos, pero no pudo quedarse por mucho tiempo ya que tenía cosas que hacer, por lo que Nicolás se quedó con nosotros durante horas rehaciendo todos los circuitos y comparando nuestro trabajo con el de ellos para lograr identificar el problema, hasta que horas después logramos que sonara, pero de manera muy sutil gracias a la magia de nuestro compañero Nicolás, es decir que utilizamos las mismas conexiones que nuestro compañero Nicolás.
+con los chips que más tuvimos problemas fueron el 4093 y el 386, ya que al inicio, cuando los armamos por primera vez y los conectamos al parlante para ver si sonaba, no pasó nada. como no entendíamos cuál era el problema, fuimos a buscar ayuda con Misa y nos explicó que deberíamos probar de manera independiente cada chip antes de conectar todo y probar con el parlante, por lo que hicimos exactamente eso. cuando probamos si funcionaba el 386, seguimos el esquemático que hizo Misa en la pizarra y no logramos ver que funcionara, por lo que pedimos ayuda a nuestros compañeros Vania y Nicolás que estaban junto a nosotros en el Laboratorio de Interacción Digital. Vania se acercó a ver nuestros circuitos, pero no pudo quedarse por mucho tiempo ya que tenía cosas que hacer, por lo que Nicolás se quedó con nosotros durante horas rehaciendo todos los circuitos y comparando nuestro trabajo con el de ellos para lograr identificar el problema, hasta que horas después logramos que sonara, pero de manera muy sutil gracias a la magia de nuestro compañero Nicolás, es decir que utilizamos las mismas conexiones que Nicolás.
 
 ![imagenes](./imagenes/sinte-sin-funcionar.jpeg)
 
@@ -88,6 +88,8 @@ cuando volvimos al LID, Aarón nos dijo que probáramos los potenciómetros que 
 ## modificaciones realizadas a los circuitos originales
 como mencionamos al inicio, nuestro sintetizador no tuvo muchas variaciones ya que seguimos el esquemático que se nos entregó y preferimos dejarlo intacto, incluyendo los valores de los capacitores ya que nos pareció que sonaba mejor así. el único cambio que hubo en nuestro sintetizador es en la parte del 555, ya que esta fue intervenida por nuestros compañeros para ayudarnos a que funcione y como notamos que hubieron cambios en el pin 8 y 4 de este chip, preferimos dejarlo de manera intacta ya que gracias a lo que hicieron nuestros compañeros es que ahora mismo está funcionando el tincado.
 
+![imagenes](./imagenes/esquematico-propio.jpg)
+
 ## carcasas de cartón
 
 para la carcasa de nuestro sintetizador, utilizamos cartón corrugado simple, pegamento (uhu), cinta americana y masking-tape azul. decidimos diseñar un archivo en rhino para facilitar el trabajo y realizar el corte en láser, esto nos permitió enfocarnos mucho más en el circuito de nuestro proyecto. nos centramos en una estructura simple de forma rectangular, tomando como referente los sintetizadores del laboratorio de interacción digital.
@@ -102,8 +104,9 @@ para la carcasa de nuestro sintetizador, utilizamos cartón corrugado simple, pe
 el posicionamiento de cada potenciómetro lo determinamos mediante pruebas con el sintetizador. al estar sin carcasa y con todos los circuitos unidos por los cables, muchas veces se nos dificultó el movimiento de los B100K, así que por esto decidimos dividirlos por cara y que tuvieran suficiente espacio entre ellos para que fuera mucho más cómodo su uso.  además en la cara superior agregamos ranuras para ubicar el parlante. el volumen (B6), lo situamos en la cara delantera, debido a que en nuestro caso es uno de los potenciometros que menos movemos y es por esto que lo aislamos de los demás.
 
 ## interconexión entre módulos
+como grupo generamos un código de colores el cual ya hemos mencionado en donde los colores principales para formar interconexiones entre cada módulo de cada chip es mediante cables naranjos (alimentación entre protoboards e interconexión entre pins) y cables cafés (gnd entre protoboards). para lograr extender nuestros potenciómetros y LEDs a cada orificio que hicimos en la caja, se soldaron cables dupont con el sistema plug-jack para poder conectar otro dupont a los que soldamos y que éstos se logren conectar a la protoboard junto a todas las conexiones que ya teníamos hechas de antemano. aquí una fotografía de cómo se ven los potenciómetros soldados a los cables y puestos ya en la caja:
 
-textos, imágenes, diagramas de interconexión
+![imagenes](./imagenes/interconexiones.jpg)
 
 ## resultados finales
 
