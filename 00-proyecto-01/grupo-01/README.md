@@ -90,14 +90,6 @@ Rehicimos y probamos de todo con el circuito en la protoboard pero nunca nos res
 
 ![Intendo 4stepsynth 2](./imagenes/4093-386.jpg)
 
-EN PARTE ABAJO EN ERRORES Y COSAS:
-
-![4093 muerto](./imagenes/4093-pin-muerto.jpg)
-
-![Fallo soldadura potenciometros](./imagenes/caja-potenciometros-fallo.jpg)
-
-![Fallo brumarcas](./imagenes/test-fallo-brumarcas-1-1.jpg)
-
 
 ## Modificaciones realizadas a los circuitos originales
 
@@ -190,6 +182,13 @@ Más en general, a lo largo de todo el proceso siempre ocurrían los mismos erro
 - Cables mal organizados
 - Cables mal conectados
   - Sobretodo en potenciómetros con cables/componentes conectados 1 pin hacia al lado
+ 
+
+![4093 muerto](./imagenes/4093-pin-muerto.jpg)
+
+![Fallo soldadura potenciometros](./imagenes/caja-potenciometros-fallo.jpg)
+
+![Fallo brumarcas](./imagenes/test-fallo-brumarcas-1-1.jpg)
 
 
 
