@@ -2,7 +2,7 @@
 
 Hoy fueron las presentaciones de los proyectos del sintetizador. Me impresionó mucho el nivel que llegó a tener el curso, y me pareció muy interesante cómo algunos grupos explicaron las decisiones estéticas y todo su proceso de trabajo.
 
-También me gusta mucho el apoyo que hay en el taller, tanto entre compañeros como con los profesores. Yo vengo de la sección de moda, donde lamentablemente hay mucha competencia y poco apoyo entre compañeros, esta nueva dinámica en taller realmente me impresionó demasiado y me hace sentir más cómoda y segura de lo que puedo llegar a hacer.
+También me gusta mucho el apoyo que hay en el taller, tanto entre compañeros como con los profesores. Yo vengo de la sección de moda, donde lamentablemente hay mucha competencia y poco apoyo entre compañeros, esta nueva dinámica en taller realmente me impresionó demasiado y me hace sentir más cómoda y segura.
 
 En la presentación me puse muy nerviosa ya que me da pánico hablar frente a mucha gente, por lo que olvidé algunas cosas. Además, como quedó poco tiempo al final, no pude explicar los aprendizajes, errores ni la conclusión (╥﹏╥;)
 
