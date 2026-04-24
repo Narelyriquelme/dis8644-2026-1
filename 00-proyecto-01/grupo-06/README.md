@@ -160,6 +160,8 @@ Finalmente, para solucionar el problema recurrente de desconexión entre la bate
 
 PDF: (https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/00-proyecto-01/grupo-06/imagenes/esquematico-modificado.pdf)
 
+![esquemático precarias](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/00-proyecto-01/grupo-06/imagenes/precarias-esquemaatica.jpg)
+
 video: https://youtube.com/shorts/y3wmMXkBmb8?feature=share
 
 video 2: https://youtube.com/shorts/o5TqyCJIAiU?feature=share
