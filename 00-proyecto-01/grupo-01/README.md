@@ -23,10 +23,15 @@ imagen del sintetizador en su contexto
 
 audio o video del sintetizador en acción
 
+![]()
+
+![]()
+
+
 ## Componentes
 
 En este proyecto utilizamos diferentes componentes cada uno para funciones especificas los cuales son:
-- Resistencias ( ): Se encargan de limitar el flujo de corriente eléctrica y establecer niveles de voltaje específicos dentro del circuito, las resistencias son fundamentales para proteger otros componentes más sensibles como los leds.
+- Resistencias: Se encargan de limitar el flujo de corriente eléctrica y establecer niveles de voltaje específicos dentro del circuito, las resistencias son fundamentales para proteger otros componentes más sensibles como los leds.
 - Diodos: Actúan como ¨válvulas¨ que permiten el paso de la corriente en una sola dirección. Se utilizan generalmente para proteger el circuito contra inversiones de polaridad o para rectificar señales.
 - Condensadores: Se encargan de almacenar energia temporalmente. 
 - Potenciometros: Son resistencias variables que permiten ajustar manualmente el nivel de resistencia. Se utilizan para controlar diferentes parámetros como el volumen del audio o la intensidad de la señal.
@@ -47,18 +52,27 @@ Ademas diferentes chips, siendo estos:
 con chips 555 y 4017
 
 incluir texto e imágenes sobre cableado, pruebas, resultados obtenidos.
+![]()
+![]()
+
 
 ## Proceso y resultados de osciladores y amplificador
 
 con chips 4093 y 386
 
 incluir texto e imágenes sobre cableado, pruebas, resultados obtenidos.
+![]()
+![]()
+
 
 ## Modificaciones realizadas a los circuitos originales
 
 incluir texto, imágenes sobre modificaciones realizadas a los circuitos originales, incluyendo el proceso de diseño, pruebas y resultados obtenidos.
 
 incluir modificaciones en posición, chips, parámetros, valores, etc.
+![]()
+![]()
+
 
 ## Carcasas de cartón
 
@@ -66,25 +80,40 @@ textos, imágenes
 
 incluir origen de materiales, decisiones de posiciones de los componentes, decisiones estéticas, pruebas, resultados obtenidos.
 **CARTON DE DESECHOS, CINTA GAFFER COMO FORMA DE ACERCARSE A LAS CARCASAS DE ALUMINIO EN LAS QUE SUELEN ESTAR LOS EFECTOS MODULARES Y PERILLAS A LO LOCO/PARLANTE COLGANDO PORQUE QUEREMOS SALIR UN POCO DE LO COMODO(?) O CONVENIENTE(???)**
+![]()
+![]()
+
 
 ## Interconexión entre módulos
 
 textos, imágenes, diagramas de interconexión
+![]()
+![]()
+
 
 ## Resultados finales
 
 texto
 
 imagen
+![]()
+![]()
 
 video / audio
+![]()
+![]()
 
 ## Aprendizajes y errores
 
 las mejores lecciones aprendidas y los errores más comunes y cómo los resolvieron
 
 **NO LOGRAMOS HACER FUNCIONAR EL 4STEPSYNTH COMPLETAMENTE, PERO SI LOGRAMOS EL NANDULATOR, COSTO UNIR EL FILTRO/EFECTO DEL 4093 Y AL AMP, NOS COSTO ENTENDER COMO FUNCIONABA EL FILTRO, LA UNION DE CABLES ETC...**
+![]()
+![]()
 
 ## Conclusiones
 
 sobre modularidad, materialidad, trabajo en equipo, trabajo electrónico, trabajo maquinal.
+![]()
+![]()
+

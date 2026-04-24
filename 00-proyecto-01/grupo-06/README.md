@@ -32,9 +32,12 @@ Comencemos:
 **Precarias**, llamado así por las diferentes situaciones inseguras ( errores o la constante broma de que todo iba a explotar) que nos hacía pasar el circuito antes de consolidarse como sintetizador funcional. Un sintetizador construido sobre protoboards e integrado en una carcasa de cartón diseñada bajo criterios de experiencia de usuario (UX). El diseño consiste de una interfaz múltiple: una zona táctil (fotoresistor) y otra con potenciómetros situados en el frente y los lateral izquierdo, teniendo así una experiencia multisensorial. 
 El sistema se organiza en cuatro etapas, cada una realizada por un circuito integrado:
 
-+ **Módulo 1:** consta del Clock (555) en modo astable que genera una oscilación constante. Utiliza un potenciómetro para regular carga y descarga, permitiendo un control sobre el ritmo y la actividad del sistema. Además cuenta con un fotoresistor la cual ayuda en la velocidad de la frecuencia. 
++ **Módulo 1:** consta del Clock (555) en modo astable que genera una oscilación constante. Utiliza un potenciómetro para regular carga y descarga, permitiendo un control sobre el ritmo y la actividad del sistema. Además cuenta con un fotoresistor la cual ayuda en la velocidad de la frecuencia.
+  
 + **Módulo 2:** es el Secuenciador (4017), este componente recibe la señal del clock la cual se presenta en una secuencia de 4/4. Su función es organizar los pulsos en pasos cronometrados (steps) para dar estructura rítmica.
+  
 + **Módulo 3:** Aquí se encuentra el sintetizador (4093), donde le da vida a Precarias. Utiliza compuertas NANDS (Schmitt Trigger) que reciben los pasos del secuenciador; cuenta con 4 potenciómetros y condensadores que ayudan a la frecuencia, en nuestro caso son todos iguales.
+  
 + **Módulo 4:** La etapa final de precarias es la salida (386) donde se encarga de procesar las señales de las zonas anteriores para amplificarlas. A través de este chip, la señal se proyecta hacia el parlante, controlado a través de un potenciómetro.
 
 ¿Pero qué distingue a Precarias de otros sintetizadores? Precarias incorpora una diversidad de condensadores, los cuales influyen directamente en la variación de las frecuencias y sonido del sintetizador. Además, el dispositivo cuenta con dos interfaces interactivas múltiple: por un lado, un fotoresistor como control de velocidad, y por otro, potenciómetros, que permiten un control manual más preciso sobre distintos parámetros del sistema.
@@ -116,6 +119,31 @@ imágenes sobre cableado, pruebas, resultados obtenidos.
 
 ## modificaciones realizadas a los circuitos originales
 
+### Proceso:
+
+Al iniciar el proceso, implementamos el circuito original entregado y modificado por Misa con el fin de validar su funcionamiento base y asegurar que la instalación fuera correcta antes de experimentar. A pesar de enfrentar complicaciones técnicas, como errores de conexión y resistencias quemadas, logramos completar el circuito con el íbamos a trabajar.
+
+video santiago en su casa cuando lo arreglo
+
+Una vez lista la etapa anterior, procedimos a intervenir el circuito del chip 386 para maximizar la potencia y el tono de la salida de audio. Basándonos en la premisa de que valores menores de capacidad alteran la respuesta en frecuencia, sustituimos los condensadores de 100 uf por unos de 0,46 uf en la etapa de amplificación. Con este ajuste, no funcionaba bien el sistema, así que volvimos a poner el anterior condensador.
+
+Posteriormente, probamos realizar cambios en los condensadores vinculados a los potenciómetros. Al utilizar inicialmente valores elevados (10uf), el volumen no alcanzaba la intensidad deseada y buscábamos una mayor variedad tonal, por lo que decidimos sustituirlos por condensadores de 0,47 uf
+Este ajuste resultó mucho más satisfactorio, ya que proporcionó un sonido notablemente más agudo y potente. Sin embargo, al querer una diversidad de mantener una diversidad de texturas sonoras dentro del mismo sistema, decidimos conservar el primer condensador (de izquierda a derecha) con su valor original de 10 uf, logrando así un contraste dinámico entre los diferentes tonos del sintetizador.
+
+
+video del mut.
+
+Tras completar el ajuste de los condensadores, el siguiente paso fue sustituir el potenciómetro por un fotorreceptor (sensor de luz) del primer módulo para experimentar con nuevas formas de interacción. Este cambio nos gustó más para el proyecto, ya que permitía una modulación dinámica del sistema: al aumentar la intensidad lumínica, el dispositivo generaba un sonido más rápido, mientras que en condiciones de oscuridad la velocidad disminuye. 
+
+Al día siguiente, ocurrieron problemas en el circuito, por lo que volvió a armar y se decidió dejar el sensor en vez de el potenciador en el chip 555, y seguir con los mismos elementos que el dia anterior, solo modulando los colores y identificarlos en un dibujo esquemáticos de cada protoboard para identificarse.
+
+### Final:
+Al aprender cómo soldar  soldadura, logramos proponer una nueva versión de carcasa por la mayor seguridad de que no se iban a desconectar. Permitiéndonos foldar los potenciómetros y el parlante de forma fija, eliminando así el riesgo que nos pasaba muy seguido de choques entre cables porque se desconectaban al  circuito, aparte de cambiar a todos los potenciadores de que están conectadas al chip 4093 por condensadores de 0,47 como decisión grupal por gustos de sonido y se notaban mas una diferencia de cada botón para nosotros.
+
+En cuanto a la carcasa, decidimos mantener los potenciómetros y el fotosensor seleccionados previamente, ya que como equipo preferíamos la forma en que este último permitía controlar la velocidad. Ubicamos el sensor en la parte superior de la carcasa para facilitar su interacción con la luz, mientras que los botones de los potenciómetros se instalaron en el frente y el control de volumen se situó en el lateral izquierdo.
+Finalmente, para solucionar el problema recurrente de desconexión entre la batería y las líneas de alimentación, optamos por soldar los terminales directamente a la protoboard donde se encuentra el chip 555. Esto garantizó la estabilidad del flujo eléctrico, dejando la batería accesible por fuera del sistema para que solo tuviera que conectarse al momento de la solemne.
+
+
 ### Esquemático modificado:  
 (https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/00-proyecto-01/grupo-06/imagenes/esquematico-modificado.pdf)
 
@@ -143,7 +171,16 @@ video / audio
 
 ## aprendizajes y errores
 
-las mejores lecciones aprendidas y los errores más comunes y cómo los resolvieron
+### Aprendizaje: 
+Uno de los mayores logros de este semestre fue el fortalecimiento del trabajo en equipo y la capacidad de pedir ayuda. Al reconocer que no éramos expertos, logramos combinar los conocimientos individuales de cada integrante para crear una fuente colectiva de ayuda mutua en el grupo, nadie era experto y todos estábamos aprendiendo, cuando ya pudimos superar la barrera de la frustración y entender esto, pudimos seguir adelante. Esta sinergia fue la que nos permitió llevar a buen puerto el proyecto del sintetizador, también considerando la buena disposición de los integrantes para invertir tiempo fuera de clases para entender y darnos nuestro tiempo para hacer los circuitos.
+
+En cuanto al avance técnico, nuestra evolución fue notable: pasamos de no saber que era y cuál era el uso de una protoboard a manipular con diferentes chips en módulos para hacer música, aprendiendo desde el inicio de un 555 y como funcionaban en diferentes contextos. Logramos dominar el flujo de energía, desde lo más básico como encender un LED, hasta procesos más complejos como controlar la sensibilidad de los botones para alterar el sonido con salida a un parlante. Entendimos que no nacemos sabiendo, el ahora poder encontrar un error que antes no podíamos ver, era un aprendizaje, poder entender que un error cometido era un aprendizaje para un futuro. 
+
+### Errores:
+
+En cuanto a los errores, fueron demasiados, tantos que no había clase que no cometieron al menos 3 errores ( conexión, ubicación de cable, error de chip) pero eso al menos hacía que tuviéramos más cuidado en esos puntos en la siguiente clase. El principal fue la constante falta de precisión en el montaje de cables y la conexión de los componentes. Al inicio cometimos fallas sistemáticas al confundir los orificios de la protoboard, conectando cables en pines incorrectos, lo que provocó que quedáramos múltiples chips 555 (tuvimos que ir a comprar más durante las semanas), resistencias y LEDs. Estos errores de conexión eran tan recurrentes que nos obligaban a repetir los módulos, desarmar todo y volverlo desde 0,  hasta tres veces por clase. Se nos olvidaba conectar el paso de energía entre protoboard, lo que hacía que los circuitos no funcionaran al no circular la energía.
+
+Además, sufrimos de una grave falta de estandarización y orden colectivo en el manejo de los módulos. No establecimos un código de colores grupal para los cables lo que nos hacía estresarnos y estar minutos viendo uno por uno cuál era el error en una ensalada de cables, lo que generaba confusión y pérdida de tiempo cada vez que un integrante distinto tomaba el circuito. La fragilidad de nuestras conexiones fue un error persistente hasta la última clase; los cables se soltaban y no sabíamos dónde iban  o se ubicaban mal por la falta de un sistema de trabajo. Este desorden en la conducción colectiva del sistema nos hacía volver a hacer el sistema por algún cable que no sabíamos dónde iba.
 
 ## conclusiones
 
