@@ -223,3 +223,15 @@ Como grupo, fue clave ir conversando todo. Al principio teníamos varias ideas q
 En la parte electrónica aprendimos harto haciendo, más que nada a prueba y error. Nos equivocamos varias veces, quemamos componentes, conectamos mal cosas y el sonido no siempre funcionaba como esperábamos. Pero todo eso sirvió para entender mejor cómo funciona el circuito y por qué cada conexión importa. También aprendimos a leer mejor los esquemáticos de los circuitos, lo que nos facilitó su construcción, y a dibujar nuestro propio esquemático.
 
 Finalmente, usar modelado 3D y corte láser hizo que todo se viera más ordenado y que todo encajara mejor. En general, sentimos que el proyecto terminó siendo más completo, porque no era solo un circuito, sino un objeto que funciona y que también tiene una intención en cómo se ve y se usa.
+
+## bibliografía
+
+<https://www.elprocus.com/555-timer-pin-description-applications/>
+
+<https://www.instructables.com/Know-Your-IC-LM386/>
+
+<https://www.build-electronic-circuits.com/4000-series-integrated-circuits/ic-4093/>
+
+<https://www.build-electronic-circuits.com/4000-series-integrated-circuits/ic-4017/>
+
+<https://boardmix.com/es/knowledge/block-diagram/>
