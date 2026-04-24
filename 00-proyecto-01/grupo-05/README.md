@@ -351,3 +351,13 @@ El desarrollo del OPEN-BEAT KRAFT permitió entender el circuito desde sus error
 La interconexión entre protoboards y los módulos de salida independientes (LM386 + parlante) confirmó que el recorrido de la señal y la ubicación de los componentes afectan directamente el resultado. La separación en módulos móviles y el ocultamiento de las baterías ayudaron a ordenar la interacción sin exponer el sistema.
 
 Las modificaciones implementadas no solo resolvieron problemas técnicos, sino que permitieron construir un sistema más claro, controlable y abierto a seguir siendo ajustado.
+
+----------------------------------------------
+
+## bibliografía
+
+Build Electronic Circuits. (s.f.). *How transistors work*. https://www.build-electronic-circuits.com/how-transistors-work/
+
+Reddit. (s.f.). *Crackle box synth* [Publicación en foro]. https://www.reddit.com/r/synthesizers/comments/1ctrhdj/crackle_box_synth/?tl=es-419
+
+Build Electronic Circuits. (s.f.). *IC 4093 (4000 series integrated circuits)*. https://www.build-electronic-circuits.com/4000-series-integrated-circuits/ic-4093/
