@@ -8,12 +8,10 @@ Hoy trabajamos en la evolución del sintetizador físico, integrando lógica dig
 * **CD4093 (Oscilador):** Es un chip de 14 patas que contiene 4 compuertas NAND. Lo usamos para generar el sonido.
         Pata 14: Positivo (++).
         Pata 7: Negativo (−−).
-<img width="500" height="800" alt="Removed Background-0" src="https://github.com/user-attachments/assets/ed0cb707-4a90-4c0f-b7b1-96a914aafad4" />
-<img width="500" height="440" alt="4093_Pinout-white" src="https://github.com/user-attachments/assets/c6e56f57-eb49-4b3e-b2dc-f09cc2aa95d6" />
+<img width="400" alt="4093_Pinout-white" src="https://github.com/user-attachments/assets/c6e56f57-eb49-4b3e-b2dc-f09cc2aa95d6" /> 
 
 * **LM386 (Amplificador):** Es el chip que actúa como un megáfono. Toma la señal débil del 4093 y le da fuerza para que el parlante suene fuerte.
-<img width="400" height="1440" alt="Removed Background-0(1)" src="https://github.com/user-attachments/assets/bc16ad0f-bad3-4400-a343-bcfa98139792" />
- <img width="450" height="1440" alt="Removed Background-0(1)" src="https://github.com/user-attachments/assets/5e1e53c5-3e31-4e1a-806b-4304bbb466f3" />
+<img width="350" alt="Removed Background-0(1)" src="https://github.com/user-attachments/assets/bc16ad0f-bad3-4400-a343-bcfa98139792" /><img width="350" alt="Removed Background-0(1)" src="https://github.com/user-attachments/assets/5e1e53c5-3e31-4e1a-806b-4304bbb466f3" />
 
 # Circuito Sonoro Lab / Construye - Explora - Crea 
 Es un proyecto de Chile (creado por Claudia González) que es un referente súper importante. 
@@ -33,10 +31,9 @@ En la sesión de hoy exploramos el trabajo de Circuito Sonoro Lab, un espacio de
 
   **💡 Dato importante**
 Circuito Sonoro Lab es un ejemplo de Arqueología de Medios, porque a veces usan piezas de aparatos viejos (como la radio antigua que ocupé en el encargo anterior 📻) para crear instrumentos nuevos.
-<img width="950" height="938" alt="image" src="https://github.com/user-attachments/assets/4a06b911-8346-4c9b-b71d-d05fb89cdc10" />
-<img width="350" height="915" alt="image" src="https://github.com/user-attachments/assets/ac8e47cf-7e2c-444d-8ab1-449d20421470" />
-<img width="600" height="980" alt="image" src="https://github.com/user-attachments/assets/e93b0617-23b4-4979-8d76-e01d9713c120" />
 
+
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/4a06b911-8346-4c9b-b71d-d05fb89cdc10" /><img width="250" alt="image" src="https://github.com/user-attachments/assets/ac8e47cf-7e2c-444d-8ab1-449d20421470" /><img width="250" alt="image" src="https://github.com/user-attachments/assets/e93b0617-23b4-4979-8d76-e01d9713c120" /> 
 
 # VCV Rack (The Eurorack Simulator) Es el software de código abierto que simula sintetizadores modulares bajo el estándar Eurorack.
 El profesor recomendó este recurso como la plataforma líder para la simulación de sintetizadores modulares en computadoras (Windows, Mac y Linux).
@@ -46,9 +43,7 @@ El profesor recomendó este recurso como la plataforma líder para la simulació
 
    **Observación** Nos sirvio como un laboratorio de experimentación para entender el flujo de la señal (signal flow) y la lógica modular sin necesidad de tener el hardware físico costoso. Es el puente perfecto entre la teoría del sonido y la práctica en el protoboard con el CD4093 y el LM386. **"Entorno de Código Abierto" (Open Source)**
 
-<img width="1681" height="916" alt="image" src="https://github.com/user-attachments/assets/cc086514-5fbc-4b3a-b0b1-cea6e1f2dba8" />
-<img width="500" height="983" alt="image" src="https://github.com/user-attachments/assets/cb659005-2638-4e54-8f89-4a5f04c1ca90" />
-<img width="500" height="1012" alt="image" src="https://github.com/user-attachments/assets/6f41a645-31e9-4aca-81f6-cad6ecafeebc" />
+<img width="260" alt="image" src="https://github.com/user-attachments/assets/cc086514-5fbc-4b3a-b0b1-cea6e1f2dba8" /><img width="260" alt="image" src="https://github.com/user-attachments/assets/cb659005-2638-4e54-8f89-4a5f04c1ca90" /><img width="260" alt="image" src="https://github.com/user-attachments/assets/6f41a645-31e9-4aca-81f6-cad6ecafeebc" /> 
 
 **💡 Diferencia Clave:** Algo que note es que mientras que en VCV Rack las conexiones son virtuales y los componentes son ideales (sin errores), en nuestro protoboard físico con el CD4093 y el LM386 nos enfrentamos a desafíos reales como el ruido eléctrico, la polaridad de los capacitores y la duración de la batería.
 
