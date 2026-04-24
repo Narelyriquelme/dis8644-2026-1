@@ -48,6 +48,7 @@ Cada integrante del grupo comenzó a armar una parte del esquema, y luego lo uni
 Luego de bastante trabajo en clase, logramos construir el instrumento, pero sonó por unos minutos, y luego nos dimos cuenta de que ese sonido estaba distorsionado. Como muy sucio. Y fue allí cuando el profesor Misa, descubrió que debíamos poner condensadores para estabilizar la corriente en el circuito y que el sonido emitido por este, fuera más limpio y acorde a lo que se quería lograr. 
 
 *(ver video)*
+
 [![trabajo en clase](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-06a/imagenes/trabajo-en-clase.jpeg)](https://youtube.com/shorts/Lcn3EZFl_14?si=SCv2LweuKps9M7To)
 
 slay.
