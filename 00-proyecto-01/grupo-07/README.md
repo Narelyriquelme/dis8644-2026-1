@@ -97,6 +97,8 @@ Los brazos, ubicados a ambos lados, contienen los amplificadores. Estos módulos
 
 Se conectaron tres protoboards entre sí. En la primera está el generador de clock junto con el secuenciador, en la segunda se encuentra el sintetizador y en la tercera están los amplificadores. Todos estos módulos se acomodaron dentro de carcasas de cartón, siguiendo la distribución que se tenía pensada.
 
+Las modificaciones realizadas se aprecian en color naranja.
+
 ![esquema](./imagenes/esquematico.png)
 
 ## resultados finales
@@ -106,6 +108,10 @@ El resultado final no fue el esperado, ya que los potenciómetros se dañaron de
 Por otro lado, el montaje físico resultó exitoso, la distribución de los módulos dentro de las carcasas de cartón se realizó tal como se había previsto y el sistema opera de manera correcta.
 
 ![rodolfo](./imagenes/rodolfo.jpeg)
+
+https://github.com/user-attachments/assets/e371bef5-044d-4cbf-a1b6-1ce6f4a00647
+
+
 
 
 ## aprendizajes y errores
