@@ -86,7 +86,11 @@ Para proteger los componentes, el cátodo de cada LED se conectó al negativo a 
 
 ## proceso y resultados de osciladores y amplificador
 
-### Chips 4093
+### Chips 4093 y Chips 386
+
+![4093 y 386](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/00-proyecto-01/grupo-06/imagenes/4093-y-386.jpg)
+
+Secuenciador se transforman en frecuencias audibles mediante el uso de compuertas Schmitt Trigger.
 
 #### Paso 1: Alimentación
 Conectamos el pin 14 al positivo (VCC) y 7 al negativo (GND). Se instala un condensador cerámico/no polarizado (100nF) entre ambas líneas, ubicándolo lo más cerca posible de los pines de alimentación del chip.
@@ -158,6 +162,8 @@ Finalmente, para solucionar el problema recurrente de desconexión entre la bate
 ![4017](https://github.com/paulafuentesm/dis8644-2026-1/blob/1e93ee50ea62ca7833c6da25062508df6a0819f1/00-proyecto-01/grupo-06/imagenes/esquematico-modificado-img.jpg)
 
 PDF: (https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/00-proyecto-01/grupo-06/imagenes/esquematico-modificado.pdf)
+
+![esquemático precarias](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/00-proyecto-01/grupo-06/imagenes/precarias-esquemaatica.jpg)
 
 video: https://youtube.com/shorts/y3wmMXkBmb8?feature=share
 
