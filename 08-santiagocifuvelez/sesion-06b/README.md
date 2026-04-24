@@ -16,5 +16,12 @@ Comencemos c:
 
 ## 1.	Tipos de fuentes de energía para alimentar la proto.
 ## 2.	Modificaciones realizadas por el profesor Misa para un mejor funcionamiento del instrumento. 
+
+![condensadores agregados](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-06b/imagenes/esquema-modificado.jpeg)
+
 ## 3.	Trabajo en solemne 01 
 ## 4.	Trabajo de solemne 01 (Precarias), en el MUT.
+
+![yo en el metro con precarias en la mano](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-06b/imagenes/subway-mut.jpeg)
+![proceso de trabajo en el cc](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-06b/imagenes/working-in-the-mut.jpeg)
+![Cuando terminamos, y todo estaba bien](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-06b/imagenes/precarias-funciono.jpeg)
