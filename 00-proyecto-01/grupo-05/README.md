@@ -89,6 +89,7 @@ En esta etapa, los transistores actúan como interruptores lógicos que seleccio
 * **Base (Pata Central):** Recibe la señal desde el CD4017 a través de un cable naranja y una resistencia de 100kΩ (marrón-negro-amarillo). Esta corriente es la que "abre" el transistor para activar la nota.
 * **Colector (Pata Derecha):** Es la vía de salida que lleva la información de control hacia el CD4093 (oscilador de audio). Al activarse el transistor, el colector permite que el circuito del 4093 genere el tono específico asignado a ese paso de la secuencia.
 
+https://github.com/user-attachments/assets/26c198c3-9297-478d-9f7f-ea9b3e70d59e
 
 ## proceso y resultados de osciladores y amplificador
 
@@ -142,6 +143,8 @@ https://github.com/user-attachments/assets/30f01b61-87bd-45d3-be96-2d65fa92969e
 ![proyecto-01-grupo-05](imagenes/plantilla-a1-interfaz-carton-proyecto-01-grupo-05.jpg)
 
 La mayoría de las pruebas se realizaron entre el *modelado 3D* y la *medición directa de los componentes* en la protoboard, utilizando como referencia su forma y dimensiones dentro de la interfaz. Esto permitió ajustar posiciones, proporciones y relaciones entre los elementos antes del armado final.
+
+![proyecto-01-grupo-05](imagenes/midiendo-proyecto-01-grupo-05.jpg)
 
 En conjunto, la carcasa permite *contener el sistema, ordenar la interacción y hacer visible parte de su funcionamiento*.
 
