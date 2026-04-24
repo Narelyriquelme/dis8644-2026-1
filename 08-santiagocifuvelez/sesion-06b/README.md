@@ -39,6 +39,11 @@ También en el 386, la organización nos estaba afectando. Así que lección apr
 
 ## 4.	Trabajo de solemne 01 (Precarias), en el MUT.
 
+Antes de partir al MUT (re hermoso, por cierto), estuve en casa intentando arreglar el circuito, y gracias al profesor Aaron, lo logré…, pues todo funcionaba, pero el sonido emitido por la energía se seguía escuchando re cansado y muy sucio, así que el profesor Arón, con una calculadora de oscilaciones, me recomendó usar condensadores de menos de 1uf.   
+Así que use condensadores de 0.47uf. 
+
+Period.
+
 ![yo en el metro con precarias en la mano](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-06b/imagenes/subway-mut.jpeg)
 ![proceso de trabajo en el cc](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-06b/imagenes/working-in-the-mut.jpeg)
 ![Cuando terminamos, y todo estaba bien](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-06b/imagenes/precarias-funciono.jpeg)
