@@ -126,27 +126,27 @@ Se inició el trabajo de la fabricación de los módulos individuales para cada 
 ## resultados finales
 FALTA TEXTOOOO
 
-[![error-de-prueba](./imagenes/error-de-prueba.jpg)](target-https://youtube.com/shorts/9d-iETjBh5E?feature=share)
+[![error-de-prueba](./imagenes/error-de-prueba.jpg)](https://youtube.com/shorts/9d-iETjBh5E?feature=share)
 
-[![avance-en-clases](./imagenes/avance-en-clases.jpg)](target-https://youtube.com/shorts/5gKJZMzpkfo?feature=share)
+[![avance-en-clases](./imagenes/avance-en-clases.jpg)](https://youtube.com/shorts/5gKJZMzpkfo?feature=share)
 
-[![primeras-palabras](./imagenes/funcional-a-medias.jpg)](target-https://youtube.com/shorts/-5ObsHIaNt8?feature=share)
+[![primeras-palabras](./imagenes/funcional-a-medias.jpg)](https://youtube.com/shorts/-5ObsHIaNt8?feature=share)
 
-[![funcional2](./imagenes/funcional-2.jpg)](target-https://youtube.com/shorts/OnDnuAD8rnA?feature=share)
+[![funcional2](./imagenes/funcional-2.jpg)](https://youtube.com/shorts/OnDnuAD8rnA?feature=share)
 
-[![funcional3](./imagenes/funcional-3.jpg)](target-https://youtu.be/-Gm3Elvl8b4)
+[![funcional3](./imagenes/funcional-3.jpg)](https://youtu.be/-Gm3Elvl8b4)
 
-[![exp-leds](./imagenes/experimentacion-leds.jpg)](target-https://youtube.com/shorts/-WAXl1yggwI?feature=share)
+[![exp-leds](./imagenes/experimentacion-leds.jpg)](https://youtube.com/shorts/-WAXl1yggwI?feature=share)
 
-[![prueba-en-clases](./imagenes/prueba-en-clases.jpg)](target-https://youtube.com/shorts/Xb3qNL6uEv0?feature=share)
+[![prueba-en-clases](./imagenes/prueba-en-clases.jpg)](https://youtube.com/shorts/Xb3qNL6uEv0?feature=share)
 
-[![clock](./imagenes/clock.jpg)](target-https://youtube.com/shorts/Tn4mYcJkdbM)
+[![clock](./imagenes/clock.jpg)](https://youtube.com/shorts/Tn4mYcJkdbM)
 
-[![experimentación](./imagenes/experimentación.jpg)](target-https://youtube.com/shorts/MRkO61sCz0I?feature=share)
+[![experimentación](./imagenes/experimentación-condensadores.jpg)](https://youtube.com/shorts/MRkO61sCz0I?feature=share)
 
-[![prueba-resultado](./imagenes/prueba-resultado.jpg)](target-https://youtu.be/wFk9Vo_xZWM)
+[![prueba-resultado](./imagenes/prueba-resultado.jpg)](https://youtu.be/wFk9Vo_xZWM)
 
-[![prueba2-final](./imagenes/2da-prueba-resultado.jpg)](target-https://youtu.be/D56QWDAkTL0)
+[![prueba2-final](./imagenes/2da-prueba-resultado.jpg)](https://youtu.be/D56QWDAkTL0)
 
 ![Foto Impresiones 3D](./imagenes/xxxx)
 
