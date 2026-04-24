@@ -56,7 +56,7 @@ Video 2: https://youtube.com/shorts/NSwSG6KaihU?feature=share
 El proceso comenzó con la instalación del chip 555 en la protoboard. Se conectan los flujo de energía conectando las energias (cables rojo: positivo y negro: negativo). Luego, se procedió a alimentar el integrado vinculando al pin 1 (tierra) al negativo mediante un cable verde y la pin 8 (VCC) al positivo con un cable café claro.
 
 #### Paso 2: Puentes y Red de Temporización
-Para configurar el ciclo del chip, se realizó una interconexión física entre los pins 6 y 2 utilizando un cable café. Desde este nodo, se derivó una conexión hacia un arreglo de resistencias (1k) y un condensador (100 uf), componentes esenciales para definir la frecuencia de la señal. Adicionalmente, la pin 7 se conectó a través de un cable verde a una línea de la protoboard (línea 22), donde se integró a una serie de resistencias para completar la red de descarga.
+Para configurar el ciclo del chip, se realizó una interconexión física entre los pins 6 y 2 utilizando un cable café. Desde este nodo, se derivó una conexión hacia un arreglo de resistencias (1k) y un condensador (100 µF), componentes esenciales para definir la frecuencia de la señal. Adicionalmente, la pin 7 se conectó a través de un cable verde a una línea de la protoboard (línea 22), donde se integró a una serie de resistencias para completar la red de descarga.
 
 #### Paso 3: Salida de Señal e Interconexión de Módulos
 En la pin 3 (salida) se instaló un cable naranja conectado a un LED rojo con su respectiva resistencia de protección, cerrando el circuito en el polo negativo para visualizar la oscilación. Desde esta misma pata 3, se extendió un cable verde que sirve como puente de interconexión con el siguiente módulo del sistema (4017).
@@ -72,7 +72,7 @@ Finalmente, se conectó LED pin 5 (control de voltaje) hacia el negativo a trav�
  Al igual que en el módulo anterior, el proceso inició estableciendo las conexiones de alimentación. Se vincularon los negativos de la protoboard y  conectar los pines de energía del chip: pin 8 (VSS) se llevó al negativo y la pin 16 (VDD) al positivo para activar el integrado.
  
 #### 2. Paso 2:Control de Lógica y Reset 
-Para asegurar el funcionamiento del contador, se realizaron las conexiones de control. El pin 15 (Reset) se conectó al pin 10 para determinar el ciclo de conteo. Asimismo, los pins 14 (Clock) y 13 (Clock Inhibit) se conectaron al polo negativo mediante resistencias de 10k uf, garantizando la estabilidad de las señales de entrada.
+Para asegurar el funcionamiento del contador, se realizaron las conexiones de control. El pin 15 (Reset) se conectó al pin 10 para determinar el ciclo de conteo. Asimismo, los pins 14 (Clock) y 13 (Clock Inhibit) se conectaron al polo negativo mediante resistencias de 10k µF, garantizando la estabilidad de las señales de entrada.
 
 #### 3. Paso 3:Interconexión de Salidas
 Se reservaron las conexiones de los botones (pins 2, 3, 4 y 7) para la etapa final (sentíamos que era lo más difícil). Con el fin de verificar que el circuito funcionaba correctamente, se instalaron LEDs de prueba. Estos se conectaron desde las cuatro patillas de salida mencionadas hacia las filas 19, 16, 13 y 10 de la protoboard.
