@@ -10,7 +10,7 @@ En resumen, es la manera formal y transparente de decir: "Nos equivocamos en est
 "Por mi culpa, por mi culpa, por mi gran culpa".
 
 ### Correcciones al circuito
-imagen de los apuntes
+![Apuntes06b](./imagenes/apuntes-06b.jpg)
 
 missa en clases nos enseño varias correcciones y datos utiles para hacer en los circuitos como se muestra en la imagen de arriba:
 
@@ -31,4 +31,18 @@ Missa nos enseñó a revisar cada parte del circuito por separado. Primero revis
 Después de corroborar que funcionaba, revisamos si estaba todo bien conectado en el chip 4093 y se veía correcto, entonces decidimos probar todo junto nuevamente y, al conectar todo, no salía sonido :( . Decidimos cambiar el chip 4093 por el que estábamos usando de prueba, ya que ese sabíamos que funcionaba, pero después de cambiarlo aún no sonaba. Ya no sabíamos qué más hacer.
 
 Hasta que a Missa se le ocurrió sacar los LEDs del chip 4017 solo para probar y, ¡sorpresa!, por fin salía sonido. Descubrimos junto a él que los LEDs del secuenciador afectaban el paso de la energía a los steps del sintetizador. Sacando todos los LEDs de los steps, al fin nos funcionó correctamente todo el circuito y fuimos demasiado felices. También cabe destacar, entre paréntesis, que el profesor Aarón nos enseñó que debíamos cuidar la batería, ya que si uno la deja suelta en la cajita puede tocar algún otro componente y se puede descargar. Después de tener todo funcionando, quisimos probar distintos sonidos y fue muy entretenido. Aquí dejo algunos sonidos que obtuvimos.
+
+
+
+https://github.com/user-attachments/assets/628148e3-b2c9-46cb-a3e6-df87f0b89ef4
+
+
+
+https://github.com/user-attachments/assets/7744fd53-5cb1-4799-947a-01f492bf91d2
+
+
+
+
+https://github.com/user-attachments/assets/e69baccd-dc3d-40e3-91de-44012a54202a
+
 
